@@ -713,7 +713,6 @@ agnyon.appspot.com
 aheahe578.blog.fc2.com
 ahovip.seesaa.net
 ai.2ch.sc
-ai.open2ch.net
 aichik241.doorblog.jp
 aics-app.sakura.ne.jp
 aihiterukotoba.blog.fc2.com
@@ -882,8 +881,6 @@ amznkappa.blog.fc2.com
 an-immortal-flower.hatenablog.com
 an48.net
 ana-gachi.net
-anago.2ch.sc
-anago.open2ch.net
 anaguro.yanen.org
 anarusokuhou.doorblog.jp
 anasoku.info
@@ -1279,8 +1276,6 @@ avd6.ciki.me
 avfuufu.seesaa.net
 avinfolie.net
 avisoku.blog.jp
-awabi.2ch.sc
-awabi.open2ch.net
 awniss0sj4x.seesaa.net
 axantenna.com
 axemania.blog.fc2.com
@@ -1945,7 +1940,6 @@ cosmel.info
 cosmoneapolitan.blog.fc2.com
 cospradio.net
 cough.cocolog-nifty.com
-count.2ch.sc
 cowboy.blog.jp
 cp-news.com
 cplg.dip.jp
@@ -2609,7 +2603,6 @@ finalfantasy-infobox.info
 finalfantasy35.blog45.fc2.com
 finalfantasyrk.info
 financial-c.net
-find.2ch.sc
 fire.an-te.net
 fire2day.blog.fc2.com
 firelight-bistro.com
@@ -3407,14 +3400,8 @@ hawks.jyoraku.jp
 haxor.biz
 hay-day.biz
 hayablog00.blog.fc2.com
-hayabusa.open2ch.net
-hayabusa.openopen2ch.net.open2ch.net
 hayabusa2.blog.fc2.com
 hayabusa2chvip.seesaa.net
-hayabusa3.2ch.sc
-hayabusa3.open2ch.net
-hayabusa5.2ch.sc
-hayabusa5.open2ch.net
 hayatakunet.cocolog-nifty.com
 hayukaohji.com
 hazamasoku.blog.fc2.com
@@ -3806,7 +3793,6 @@ iks1019.blog.fc2.com
 ikuji-news.com
 ikumamasokuhou.com
 ikumen-kotanosuke.com
-ikura.2ch.sc
 ikuzi2pa.blog.fc2.com
 ilbonsokuhou.blog.fc2.com
 illluminati.doorblog.jp
@@ -4572,7 +4558,6 @@ koee.net
 koekana.blog.fc2.com
 koematome.blog.fc2.com
 kofu2ch.web.fc2.com
-kohada.open2ch.net
 koharuss.blog.fc2.com
 koi.aznews.biz
 koibana-antena.info
@@ -4951,7 +4936,6 @@ maafim.biz
 maasok.seesaa.net
 mac.wistaria-net.com
 macaro-ni.jp
-macaron.2ch.sc
 machikon.doorblog.jp
 machosoku.blog.jp
 mackknife.info
@@ -4977,7 +4961,6 @@ magnetypo.com
 magpierss.oneandten.com
 magsoku.blomaga.jp
 magunibo.blog.fc2.com
-maguro.2ch.sc
 magurohd.blog.fc2.com
 magurohd.com
 mahasoku.blog.jp
@@ -6769,7 +6752,6 @@ now2chblog.blog55.fc2.com
 nowasoku.com
 nowtopi.net
 nozokimi-2ch-paku.seesaa.net
-nozomi.2ch.sc
 nsoku.toypark.in
 nstimes.blogher.co
 nstimes.com
@@ -7045,8 +7027,6 @@ open-2chmm.jp
 open.cacao.jp
 open.ldblog.jp
 open.readers.jp
-open01.open2ch.net
-open02.open2ch.net
 open2ch-antena.antena-nijigen.com
 open2ch.dreamlog.jp
 open2ch.ldblog.jp
@@ -7115,7 +7095,6 @@ oreyou.net
 orgasmnews.net
 orisoku.doorblog.jp
 orixchannel.main.jp
-orpheus.2ch.sc
 oryouri.2chblog.jp
 orzorzorz.doorblog.jp
 osakaitai.doorblog.jp
@@ -7348,7 +7327,6 @@ pcnews.ldblog.jp
 pczisaker.blog.fc2.com
 pd.gamesp.jp
 pdmainichi.antenam.biz
-peace.open2ch.net
 peach-soku4.com
 peach2ch.com
 pechasoku.com
@@ -8504,7 +8482,6 @@ svgfire.com
 svven.jp
 swalk.tv
 swallows.jyoraku.jp
-sweet.2ch.sc
 sxs3bhck.blog95.fc2.com
 syakainomado.blog.jp
 syakasoku.chitosedori.com
@@ -8788,8 +8765,6 @@ tomato-matome.jp
 tomato-sokuhou.red
 tomato.chips.jp
 tomboritzki2012.com
-tomcat.2ch.sc
-tomcat.open2ch.net
 tome-uto.com
 tomnoradio.com
 tomodachi.blog.jp
@@ -8838,8 +8813,6 @@ torimayo.wpblog.jp
 torinikui.blog112.fc2.com
 toriyamazine.blog100.fc2.com
 tornade-f.com
-toro.2ch.sc
-toro.open2ch.net
 toroahe.blog.jp
 torotter.blog.fc2.com
 torretama.seesaa.net
@@ -9046,7 +9019,6 @@ uncoon.com
 under-g.link
 underworld2ch.blog29.fc2.com
 unhappywedd.blog34.fc2.com
-uni.open2ch.net
 unionistas.org
 unitomato.dip.jp
 univ.asia
@@ -9181,8 +9153,6 @@ vipdebaka.doorblog.jp
 vipdekarasawagi.blog28.fc2.com
 vipden.blog.fc2.com
 vipelog.com
-viper.2ch.sc
-viper.open2ch.net
 viperekiban.blog.jp
 vipgroupmatome.info
 vipick.net
