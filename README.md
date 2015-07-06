@@ -17,7 +17,7 @@
 1. アドオンメニューを開き、 Hide Unwanted Results of Google Search の設定画面を開く  
 2. Import... と書いてあるボタンをクリックして、 Hide Unwanted Results Data.csv をインポート
 
-#### Google Hit Hider by Domain
+#### Google Hit Hider by Domain の場合
 1. Google で適当な語句を検索
 2. 検索結果のページ右側に Manage Hiding と書かれたボタンがあるのでクリック
 3. 下部の List Util ボタンをクリックしたあと Import ボタンをクリック
