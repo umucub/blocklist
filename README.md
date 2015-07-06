@@ -1,7 +1,9 @@
 # 検索時に邪魔になるサイトリスト
 
 ## 使い方
-
+ファイルへの直リンク  
+[blocklist.txt](https://github.com/umucub/blocklist/raw/master/blocklist.txt)  
+[Hide Unwanted Results Data.csv](https://github.com/umucub/blocklist/raw/master/Hide%20Unwanted%20Results%20Data.csv)
 ### Firefox
 [Hide Unwanted Results of Google Search](https://addons.mozilla.org/ja/firefox/addon/hide-unwanted-results-of-go/)
 または
