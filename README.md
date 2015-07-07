@@ -2,7 +2,10 @@
 ## 使い方
 ファイルへの直リンク  
 [blocklist.txt](https://github.com/umucub/blocklist/raw/master/blocklist.txt)  
-[Hide Unwanted Results Data.csv](https://github.com/umucub/blocklist/raw/master/Hide%20Unwanted%20Results%20Data.csv)
+[Hide Unwanted Results Data.csv](https://github.com/umucub/blocklist/raw/master/Hide%20Unwanted%20Results%20Data.csv)  
+
+**※使用すると検索結果の表示件数が少なくなるので、検索エンジンの設定で件数を多くした方がいいかもしれません**  
+[Google の設定ページ](https://www.google.co.jp/preferences)
 
 ### Firefox
 [Hide Unwanted Results of Google Search](https://addons.mozilla.org/ja/firefox/addon/hide-unwanted-results-of-go/)
