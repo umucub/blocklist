@@ -6,12 +6,14 @@
 [Hide Unwanted Results Data.csv](https://github.com/umucub/blocklist/raw/master/Hide%20Unwanted%20Results%20Data.csv)
 
 ### Firefox
-[Hide Unwanted Results of Google Search](https://addons.mozilla.org/ja/firefox/addon/hide-unwanted-results-of-go/)  
+[Hide Unwanted Results of Google Search](https://addons.mozilla.org/ja/firefox/addon/hide-unwanted-results-of-go/)
+をインストール
+
 または
 
-[GreaseMonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/)  
-\+  
-[Google Hit Hider by Domain](https://greasyfork.org/ja/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)  
+[GreaseMonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/)
+\+
+[Google Hit Hider by Domain](https://greasyfork.org/ja/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
 をインストール
 
 #### Hide Unwanted Results of Google Search の場合
@@ -46,6 +48,17 @@
 1. 右上の手のひらアイコンをクリックしてインポートをクリック
 2. blocklist.txt をコピペしてインポートをクリック  
 ![Opera15+](./ss/opera15+.png "Opera15+")
+
+### Opera 12 (Presto)
+[ViolentMonkey](https://addons.opera.com/en/extensions/details/violent-monkey/)
+をインストールしたあと、
+[Google Hit Hider by Domain](https://greasyfork.org/ja/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+をインストール
+
+1. ロケーションバーに opera:config と入力して設定ファイルエディタを開く
+2. 検索ボックスに Custom User-Agent と入力して出てきたボックスに  
+`Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0` 等のユーザーエージェントを入力する
+3. その後は Firefox の Google Hit Hider by Domain を使う方法と同じ
 
 ### その他のブラウザ
 Google Hit Hider by Domain が使えるかも
