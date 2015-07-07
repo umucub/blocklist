@@ -1,4 +1,4 @@
-# 検索時に邪魔になるサイトリスト
+# 検索時に邪魔になるサイトリスト / AdBlock / uBlock Origin 用 YouTuber リスト
 
 ## 使い方
 ファイルへの直リンク  
@@ -86,6 +86,12 @@ Google Hit Hider by Domain が使えるかも
 
 使用後  
 ![使用後](./ss/after.png "使用後")
+
+## ライセンス
+パブリックドメイン
+
+# AdBlock / uBlock Origin 用 YouTuber リスト
+[youtuber.txt](https://github.com/umucub/blocklist/raw/master/youtuber.txt)
 
 ## ライセンス
 パブリックドメイン
