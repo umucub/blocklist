@@ -63,6 +63,23 @@
 ### その他のブラウザ
 Google Hit Hider by Domain が使えるかも
 
+## Android
+### デフォルトブラウザ
+[Tampermonkey](https://play.google.com/store/apps/details?id=net.biniok.tampermonkey)
+をインストールして、
+[Google Hit Hider by Domain](https://greasyfork.org/ja/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+をインストール
+
+あとは PC バージョンの Firefox の説明と同じ
+
+### Dolphin Browser
+[TampermonkeyDolphin](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
+をインストールして、
+[Google Hit Hider by Domain](https://greasyfork.org/ja/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+をインストール
+
+あとは PC バージョンの Firefox の説明と同じ
+
 ## スクリーンショット (Google Hit Hider by Domain を使用)
 使用前  
 ![使用前](./ss/before.png "使用前")
