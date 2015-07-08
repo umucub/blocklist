@@ -6928,7 +6928,6 @@ okumanchojaantenna.dreamlog.jp
 okumanman.seesaa.net
 okusama-kijyo.com
 okusamachannel.blog.fc2.com
-okwave.jp
 olehatebu.olein-design.com
 oletower.com
 omaira.jp
@@ -10040,3 +10039,8 @@ zyoukyou2ch.blog.fc2.com
 zyunya.jugem.jp
 zzz.sakura.tv
 zzzorz.net
+qa.gree.net
+soudan1.biglobe.ne.jp
+detail.chiebukuro.yahoo.co.jp
+oshiete.goo.ne.jp
+qa.kangonavi.jp
