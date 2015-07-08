@@ -92,8 +92,17 @@ Google Hit Hider by Domain が使えるかも
 ## ライセンス
 パブリックドメイン
 
+***
+
 # AdBlock 互換 YouTuber フィルタ
 購読用リンク: https://github.com/umucub/blocklist/raw/master/youtuber.txt
 
 ## ライセンス
 パブリックドメイン
+
+***
+
+# 連絡先等
+tanasinn@mail.ru
+
+誤爆してたり追加したほうがいいサイトがあれば Issues かメールか嫌儲のそれっぽいスレにでも書いておいてください
