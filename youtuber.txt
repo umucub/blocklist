@@ -107,3 +107,4 @@ youtube.com##[adblock-ytid="UCGjV4bsC43On-YuiLZcfL0w"] /*SHOW 　KUN FPS*/
 youtube.com##[adblock-ytid="UCekW0WeZ1FQsfZft8iruylQ"] /*ポルンガのゲーム実況*主に勝てたら願いを叶えてやろう**/
 youtube.com##[adblock-ytid="UCcg-Gkf54OizYBKm3aD3hig"] /*iroiro*/
 youtube.com##[adblock-ytid="UCcxj8uiQUeSfMHLy_Sk8FhA"] /*ファミ通App*/
+youtube.com##[adblock-ytid="UCDx8WE3NugPklgWE3VUcPhw"] /*sofu to*/
