@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Youtuber List
-! Expires: 1 days
+! Expires: 4 days
 youtube.com##[adblock-ytid="UC-km1012mEUQQLGxggmrazw"] /*はいじぃ迷作劇場*/
 youtube.com##[adblock-ytid="UC0-H-XRuSPbDdPRmAnuzxSQ"] /*マミルトン*/
 youtube.com##[adblock-ytid="UC02K-De6oOKX0fQeqIKID3Q"] /*まえちゃんねる MAECHANNEL*/
