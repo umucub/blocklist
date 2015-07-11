@@ -7,6 +7,10 @@
 **※使用すると検索結果の表示件数が少なくなるので、検索エンジンの設定で件数を多くした方がいいかもしれません**  
 [Google の設定ページ](https://www.google.co.jp/preferences)
 
+クイックリンク  
+**[Firefox](#firefox) [Chrome](#chrome) [Opera (15+)](#opera-15) [Opera 12 (Presto)](#opera-12-presto) [Android](#android)**  
+**[Youtuber フィルタ](#adblock-%E4%BA%92%E6%8F%9B-youtuber-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF)**
+
 ### Firefox
 [Hide Unwanted Results of Google Search](https://addons.mozilla.org/ja/firefox/addon/hide-unwanted-results-of-go/)
 をインストール
@@ -30,7 +34,7 @@
 ![GoogleHitHider_2](./ss/googlehithider_2.png "GoogleHitHider_2")
 4. blocklist.txt をコピペして the regular block list または the Perma-ban list をチェックして Parse List for Import ボタンをクリック  
  (Block と Perma-ban の違いは削除されたかどうかの通知があるかないか)
-5. Import ボタンをクリックして右上の Close ボタンで閉じる  
+5. Import ボタンをクリックして右上の Close ボタンで閉じる (途中に出てくるポップアップは OK をクリック)  
 ![GoogleHitHider_3](./ss/googlehithider_3.png "GoogleHitHider_3")
 
 ### Chrome
