@@ -1,3 +1,4 @@
+.antenna-jp.info
 00-buck.com
 00612509.oseah.jp
 01chan.blog.fc2.com
@@ -19,7 +20,6 @@
 0matome.com
 0p0td.blog.fc2.com
 0taku.livedoor.biz
-1.antenam.info
 1.blomaga.jp
 10000fun.me
 10000km.com
@@ -34,7 +34,6 @@
 10cnt.blog.fc2.com
 10pic.jp
 10picweb.csdsol.com
-11pm.antenam.biz
 120.hp2.jp
 124.35.211.56
 12439310.blog.decoo.jp
@@ -276,10 +275,8 @@
 2channuroko.blog.fc2.com
 2chant.com
 2chante.blog.fc2.com
-2chantena.antenam.biz
 2chantena.blog.jp
 2chantena.info
-2chantena.kaeru.me
 2chanth.up.seesaa.net
 2chb.bulog.jp
 2chb.coresv.com
@@ -328,7 +325,6 @@
 2chgazo.com
 2chgazoumatome.blogspot.com
 2chgazoumatome.blogspot.jp
-2chgeinou.antenam.biz
 2chgeinou.blomaga.jp
 2chgeinou.com
 2chgeinounews.seesaa.net
@@ -355,7 +351,6 @@
 2chlavo.blog.fc2.com
 2chleak.info
 2chlog.com
-2chlogpo.antenam.biz
 2chlpgagirls.seesaa.net
 2chm.xyz
 2chmap.com
@@ -376,7 +371,6 @@
 2chmatome.blog6.mmm.me
 2chmatome.dip.jp
 2chmatome.jp
-2chmatome.kaeru.me
 2chmatome.main.jp
 2chmatome.sakura.ne.jp
 2chmatome.wordpress.com
@@ -480,6 +474,7 @@
 2chspeaker.com
 2chsports.tudura.com
 2chsummarize.blog.fc2.com
+2chtena.link
 2chtena.suppa.jp
 2chtimes.com
 2chtoshidensetsu.blog7.mmm.me
@@ -701,7 +696,6 @@ adult-gt.com
 adult-village.info
 adult.blogantenna.link
 adult.nyaon.jp
-adult05.fantena.pink
 adulteno.blog75.fc2.com
 adultlove.a-antenam.info
 adultmatomeantenna.com
@@ -794,14 +788,12 @@ akb48mix.wiki.fc2.com
 akb48mt.com
 akb48mtm.com
 akb48nensensou.net
-akb48news.antenam.info
 akb48news.click
 akb48newsmatome.com
 akb48newstimes.jp
 akb48pink.antennaiteme.info
 akb48rompen.com
 akb48siritame.com
-akb48soku.antenam.info
 akb48sokuhou.doorblog.jp
 akb48sousenkyo.blog.jp
 akb48special.blog.jp
@@ -815,7 +807,6 @@ akbantenna.dip.jp
 akbg.hatenablog.com
 akbg48.blog.fc2.com
 akbgirls.com
-akbgorilla.antenam.info
 akbmato.doorblog.jp
 akbmatoblog.blog.fc2.com
 akbmatomeatoz.ldblog.jp
@@ -827,7 +818,6 @@ akbskenmbhktngt48.seesaa.net
 akbvoice.seesaa.net
 akege.blog.jp
 akeynews1111.seesaa.net
-akiaki1029.antenam.biz
 akiba-hub.net
 akiba-matome.com
 akiba48.info
@@ -952,7 +942,6 @@ animatome.com
 animatomechannel.blog.fc2.com
 animatosoku.blog.fc2.com
 anime-antena.com
-anime-antenna.antena-nijimatome.com
 anime-arakan.com
 anime-ch.publog.jp
 anime-hack.com
@@ -961,7 +950,6 @@ anime-matome.net
 anime-matomeread.doorblog.jp
 anime-sokuhou.blog.jp
 anime-teen.com
-anime.antena-matome-2ch.com
 anime.antena-nijigen.com
 anime.antenna-channel-matome.com
 anime.antennasokuhou.info
@@ -982,11 +970,8 @@ anime.thinkfeel.net
 anime01.ka3soku.com
 anime03.ka3soku.com
 anime8idol.blog.fc2.com
-animean.antenam.biz
 animeanime.jp
 animech.blog.jp
-animechan.antenna-jp.info
-animechan.antennain.info
 animeclub1012.blog.fc2.com
 animedougaannaizyo.6.ql.bz
 animefood.doorblog.jp
@@ -1000,7 +985,6 @@ animelikelife.blog.fc2.com
 animemanga999.com
 animemangach.livedoor.biz
 animemangamatome.blog.fc2.com
-animemato.antenam.info
 animematome.blog.jp
 animematome.hatenablog.jp
 animematome.net
@@ -1068,6 +1052,8 @@ antch.net
 anteka.info
 antema.info
 antena-2ch.net
+antena-matome-2ch.com
+antena-nijimatome.com
 antena-site.com
 antena.compln.net
 antena.daki-makura.info
@@ -1085,10 +1071,10 @@ antenablog.com
 antenach.wp.xdomain.jp
 antenakae.net
 antenalab.dip.jp
+antenam.biz
 antenam.info
 antenam.jp
 antenan.info
-antenante.antenam.biz
 antenatayori.antn.info
 antenavi.net
 antenna-3.com
@@ -1099,6 +1085,7 @@ antenna-click.com
 antenna-ga.com
 antenna-hub.com
 antenna-matome.com
+antenna-matome.info
 antenna-movie.seesaa.net
 antenna-parade.blogspot.com
 antenna-parade.blogspot.jp
@@ -1131,6 +1118,7 @@ antenna8.myhome.cx
 antennabank.com
 antennach.com
 antennachan.com
+antennain.info
 antennaiteme.info
 antennakura.net
 antennalife.net
@@ -1148,7 +1136,6 @@ antna.org
 aoamanatu.blog.fc2.com
 aoe-cat.com
 aogaku-syllabus.jp
-aoi77.fantena.pink
 aoiaccess.blog.fc2.com
 aoisode.blog.jp
 aoisode.diary.to
@@ -1157,7 +1144,6 @@ apache456.tumblr.com
 apasoku.doorblog.jp
 apollosoku.blog.fc2.com
 app.domino.sexy
-app.kaeru.me
 app.soku4.com
 app3.bagrakuten.net
 app5.bagrakuten.net
@@ -1351,7 +1337,6 @@ bakusokuvip.com
 bakusyonews.blog.fc2.com
 bakusyuu.seesaa.net
 balkan.seesaa.net
-bals.antenam.info
 bancai-js.com
 bantyou.livedoor.biz
 baraero.com
@@ -1369,7 +1354,6 @@ baseball-antena.psp7.net
 baseball-mag.net
 baseball-news.ldblog.jp
 baseball-pr.com
-baseball.antenam.info
 baseball.antenna-antenna.com
 baseball.antenna.jpn.com
 baseball.antnplus.com
@@ -1454,7 +1438,6 @@ bianco-niku.com
 bibisoku.com
 big-vip-life.com
 bigan-nyavi.com
-biginner.antenam.biz
 bigotwolf.blogspot.com
 bigotwolf.blogspot.jp
 bigsokuhou.blog.fc2.com
@@ -1586,7 +1569,6 @@ blogranking.net
 blogring.info
 blogs.dion.ne.jp
 blogtsurugi.blog38.fc2.com
-blogyugioh.antenam.biz
 blomato.asia
 bloodborne-on.com
 bloodborne.goemon.tv
@@ -1616,7 +1598,6 @@ bokupoint.com
 bokusoku123.ldblog.jp
 bokuteki.com
 bokyo-qualia.com
-bollocksantenna.kaeru.me
 bolu2.seesaa.net
 bondsoku.blog.fc2.com
 bookmarkdatabase.blog41.fc2.com
@@ -1777,7 +1758,6 @@ ch-neru.doorblog.jp
 ch.2chdays.net
 ch.i.cmaas.net
 ch.kitiku.net
-ch225.antenam.biz
 ch2sokuhou.publog.jp
 ch2sub.blog.fc2.com
 cha-han-madakane.doorblog.jp
@@ -1926,7 +1906,6 @@ combatsports.biz
 comic-center.info
 comic.2ch-library.com
 comic.2fav.net
-comic.antenam.biz
 comic.omocoro.jp
 comica.sakura.ne.jp
 comics.gcluster.net
@@ -1993,7 +1972,6 @@ cryptract.ldblog.jp
 cucucu.net
 cultmys.seesaa.net
 culture-channnel.blog.jp
-culturean.antenam.biz
 cup0021.wpblog.jp
 cupcake-ojisan.sakura.ne.jp
 curidium.com
@@ -2206,6 +2184,7 @@ dolls.orz.hm
 dolpic.com
 dolyen.ldblog.jp
 domeovntw.blog.fc2.com
+domino.sexy
 domusbalduina.info
 dondonsokuhou.blog.fc2.com
 dontena.doorblog.jp
@@ -2260,7 +2239,6 @@ dprelude.blog.fc2.com
 dq-m.teamblog.jp
 dq-msl.com
 dq.antenna-matome-2ch.com
-dq.antennain.info
 dq.jhk32.com
 dq10.ka3soku.com
 dq1030.com
@@ -2277,7 +2255,6 @@ dqmsl-antenna.link
 dqmsl-dorasoku.com
 dqmsl-soku.com
 dqmsl.antenna-channel-matome.com
-dqmsl.antenna-jp.info
 dqmsl.co
 dqmsl.gamepicks.axelmark.jp
 dqmsl.net
@@ -2452,7 +2429,6 @@ erodoujinmag.com
 eroero-gazou.net
 eroero-taiken.com
 eroeropic.sevenstriker.com
-erogame.fantena.pink
 erogame55.a-antenam.info
 erogaroe.com
 erogazo-news.com
@@ -2551,6 +2527,7 @@ fansoku.jp
 fansoku04.blog.jp
 fansokuproc.blog.fc2.com
 fansummit.net
+fantena.pink
 fas-matome.com
 fash.jp
 fashion-news.doorblog.jp
@@ -2606,7 +2583,6 @@ ff14.ka3soku.com
 ff14antenna.blog.fc2.com
 ff14channel.net
 ff14ga.com
-ff14matome.antenam.biz
 ff14matometta.blog.jp
 ff14mmo.blog.jp
 ff14sc.com
@@ -2787,7 +2763,6 @@ g-antena.com
 g-frfr.link
 g-soku.com
 g-talks.seesaa.net
-g.kaeru.me
 ga-mo.com
 ga-t.net
 ga-zoo.com
@@ -2832,7 +2807,6 @@ gamble.doorblog.jp
 gamble777slot777.blog.fc2.com
 gamblemaster.blogspot.com
 gamblemaster.blogspot.jp
-gambler.antenam.info
 gamblervip.wp.xdomain.jp
 game-at-2ch.seesaa.net
 game-completedata.info
@@ -2844,7 +2818,6 @@ game-like.info
 game-matomeread.doorblog.jp
 game-matomex.com
 game-net.xyz
-game-news-ch.antenna-chan.info
 game-news.biz
 game-report.hateblo.jp
 game-sokuho.ldblog.jp
@@ -2867,7 +2840,6 @@ game10.doorblog.jp
 game129.blog.fc2.com
 game1291.blog.fc2.com
 game8.jp
-gameantena.antenam.biz
 gameantena.sitepedia.jp
 gameapp-info.com
 gameblog.thelonious.jp.net
@@ -2883,12 +2855,9 @@ gameking89.blog.fc2.com
 gamelove.livedoor.biz
 gamemato.me
 gamematome-antena
-gamematome.antenam.info
 gamematome.hateblo.jp
 gamematomen.blog.fc2.com
 gamenetaz.livedoor.biz
-gamenews.antenna-jp.info
-gamenews.antennain.info
 gamenews.jp
 gamenews00.blog.fc2.com
 gamenewsx.com
@@ -2902,7 +2871,6 @@ gamergamer2.com
 gamers-link.net
 gamers-matome.com
 gamers-voice.net
-gamers.antenam.biz
 gamershigh.seesaa.net
 games.gamebone.info
 gameslife114.blog.fc2.com
@@ -3006,7 +2974,6 @@ geinou-sports.net
 geinou-story.com
 geinou-tv.info
 geinou.2comi.net
-geinou.antena-matome-2ch.com
 geinou.cri.jp
 geinou.ferretroom.info
 geinou.goodnews-it.com
@@ -3246,7 +3213,6 @@ gosen-dojo.seesaa.net
 gossip-antenna.net
 gossip-i.com
 gossip-tokyo.com
-gossip.antennain.info
 gossip.bestone-inc.com
 gossip.japanbuzz.net
 gossip.news-source.jp
@@ -3265,7 +3231,6 @@ gossipsokuhou.com
 gothic-mahouotome.game-k2.net
 gottanichannel.blog.jp
 goukyuu309.blog137.fc2.com
-gouriki.antenam.biz
 gourmet-news.blog.jp
 gourmet.rulez.jp
 goyaku.blog45.fc2.com
@@ -3278,7 +3243,6 @@ grandlineheroes.blog.fc2.com
 grapee.biz
 grapee.jp
 grasoku.blomaga.jp
-gravure.antenam.biz
 gravurenewssokuhou.blog.fc2.com
 graypass.net
 greemas.doorblog.jp
@@ -3418,7 +3382,6 @@ happy-man.jp
 happyeveryday.biz
 happylife1987.blog.fc2.com
 happymail-sns.info
-happysmile.antenam.biz
 harahana.blog110.fc2.com
 haraitai.com
 hardmode999.blog.fc2.com
@@ -3475,7 +3438,6 @@ hello.skr.jp
 helloidea.org
 hellopro7144.doorblog.jp
 helloprocanvas.ldblog.jp
-helloprodd.antenam.biz
 helloproject-pr.com
 helloproject-sokuhou.doorblog.jp
 helloproject.antena-kun.com
@@ -3770,7 +3732,6 @@ idobata.wpblog.jp
 idobatanews.com
 idobatanime.blog.fc2.com
 idol-2ch.seesaa.net
-idol-akb.antenna-jp.info
 idol-blog.com
 idol-ch.org
 idol-geinou-mihari.seesaa.net
@@ -3779,7 +3740,6 @@ idol-magazine.com
 idol-pr.com
 idol-times.com
 idol-wars.com
-idol.antena-matome-2ch.com
 idol.antennaiteme.info
 idol.cashcow1019.com
 idol.entagee.com
@@ -3836,7 +3796,6 @@ ikimonomatometyou.com
 ikioi.blog.jp
 ikioi2ch.net
 ikirukaru.blog38.fc2.com
-ikkyuu.antenam.biz
 iks1019.blog.fc2.com
 ikuji-news.com
 ikumamasokuhou.com
@@ -3943,7 +3902,6 @@ irasuka.com
 iratsuku.com
 irc2.2ch.net
 iro8oion.dreamlog.jp
-irobata.antenam.biz
 irogotoshi.nomaki.jp
 iroha1130.seesaa.net
 iroiro24357.seesaa.net
@@ -3993,9 +3951,7 @@ j-antenna.com
 j-gossip.com
 j-league.in
 j-minishiki.blog.jp
-j.antenam.info
 j.inthemaking.net
-j.kaeru.me
 j2matome.doorblog.jp
 jacklog.doorblog.jp
 jam-pan.net
@@ -4155,9 +4111,7 @@ jukenngoukaku5.seesaa.net
 jukensokuhou.blog.fc2.com
 jukujodougazou.blog.fc2.com
 jump-netabare.seesaa.net
-jump.antena-matome-2ch.com
 jumper2ch.blog.fc2.com
-jumpmatome.antenam.biz
 jumpmatome2ch.blog.fc2.com
 jumpsokuhou.com
 junglechitai.blog.fc2.com
@@ -4178,6 +4132,7 @@ k-institute.jp
 k0ph38g6vb.blog.fc2.com
 k2.fc2.com
 k2ch.wp.xdomain.jp
+ka3soku.com
 kabinetkonceptsinc.com
 kabooo.net
 kabu-fx.jp.net
@@ -4210,13 +4165,11 @@ kaigai-antenna.com
 kaigai-matome.net
 kaigai-news.com
 kaigai-ninki.com
-kaigai.antena-matome-2ch.com
 kaigai.ch
 kaigai.luftool.com
 kaigai.publog.jp
 kaigai3533.blog.fc2.com
 kaigaianime.blog.fc2.com
-kaigaiblog.antenam.biz
 kaigaidogayaku.doorblog.jp
 kaigaihannou.com
 kaigaihannou.net
@@ -4281,8 +4234,6 @@ kancolle-antena.com
 kancolle-l.com
 kancolle-matome.com
 kancolle-news.com
-kancolle.antena-matome-2ch.com
-kancolle.antenam.biz
 kancolle.ch
 kancolle.doorblog.jp
 kancolle.lovesoku.jp
@@ -4307,7 +4258,6 @@ kanko-re.jyouhounet.com
 kankoku-matome.blogspot.com
 kankoku-matome.blogspot.jp
 kankokunohannou.org
-kankore.antenam.biz
 kankore.fukkun.org
 kankore.ldblog.jp
 kankore.rantenna.com
@@ -4425,7 +4375,6 @@ kencho2ch.com
 kenensokuhou.blog.fc2.com
 kenkansearch.blog.fc2.com
 kenkengakugaku0002.blog.fc2.com
-kenko.antenam.biz
 kenko2ch.blog.jp
 kenkobiyo.doorblog.jp
 kenkoch.info
@@ -4706,7 +4655,6 @@ kosodatech.blog133.fc2.com
 kosodateriko.blog.fc2.com
 kosonews.blog135.fc2.com
 kosoota.blog.jp
-kosuke1.2chtena.link
 kosyoge.blog.fc2.com
 kotaro269.com
 kotesaki639.blog.fc2.com
@@ -4734,7 +4682,6 @@ koutetuoyako.com
 koutouyuuminn.blog.fc2.com
 koutuu-at-2ch.seesaa.net
 kowa.club
-kowai.antenam.biz
 kowai.lovesoku.jp
 kowai2ch.blog114.fc2.com
 kowainakowaina.blog.fc2.com
@@ -4760,7 +4707,6 @@ kumasoku.seesaa.net
 kumasokuhou14.blog.fc2.com
 kumikatsu.blog.jp
 kumo.ko-ki.info
-kura.antenam.biz
 kurarasokuho.blog.fc2.com
 kurashi-matome.info
 kure-nai.blog.jp
@@ -4904,7 +4850,6 @@ linearsokuhou.blog.jp
 lineblog.org
 linegame-matome.dreamlog.jp
 lineq.jp
-link2ch.antenam.biz
 linkis.com
 linklink.oroti.net
 linknavi-2ch.com
@@ -4973,7 +4918,6 @@ lovejam928.seesaa.net
 lovekizo.com
 loveletter620.jugem.jp
 lovelibu.com
-lovelife3.antenam.biz
 lovelive-matome.com
 lovelive.blomaga.jp
 lovelive.ka3soku.com
@@ -5090,11 +5034,8 @@ mandan.doorblog.jp
 mandarake.net
 manfla.liblo.jp
 manga-artist.com
-manga.antena-matome-2ch.com
-manga.antenam.biz
 manga.lovesoku.jp
 manga2228.blog.fc2.com
-mangaan.antenam.biz
 mangabito.net
 mangabuzzca.com
 mangach.net
@@ -5208,6 +5149,7 @@ matome-alpha.com
 matome-anime.com
 matome-antena.biz
 matome-antena.com
+matome-antenam.com
 matome-antenna.com
 matome-antenna.info
 matome-antenna.net
@@ -5240,7 +5182,6 @@ matome-next.com
 matome-no-matome.appspot.com
 matome-no-matome.com
 matome-note.jp
-matome-one55.kaeru.me
 matome-plus.com
 matome-plus.doorblog.jp
 matome-plus.livedoor.biz
@@ -5347,13 +5288,11 @@ matomea.net
 matomeandmatome.blog.fc2.com
 matomeantena.biz
 matomeantena.com
-matomeantena.kaeru.me
 matomeantena.net
 matomeantena.xyz
 matomeantenn.fantena.net
 matomebiznews.blog.fc2.com
 matomeblo.blog.so-net.ne.jp
-matomeblog.antena-nijimatome.com
 matomeblog.net
 matomeblog.wp-x.jp
 matomeblog2channel.blog.fc2.com
@@ -5409,7 +5348,6 @@ matomemonogatari.seesaa.net
 matomemory.com
 matomen.publog.jp
 matomena.jp
-matomenanj.antenam.info
 matomenati.blog.fc2.com
 matomenavi.com
 matomend.com
@@ -5633,7 +5571,6 @@ meyou.jp
 mezza9.net
 mgj758.blog.fc2.com
 mgm.igaz.org
-mgmaster.antenam.info
 mh-koryaku.info
 mh-wiki.com
 mh.hyadain.com
@@ -5760,7 +5697,6 @@ mobamas.jp
 mobamasch.blog.fc2.com
 mobi.oogake.club
 mobile-freak.net
-mobile.antenam.info
 mobile.m.mobile.3f288.gogovcn.asia
 mobilephonenavi.blog.fc2.com
 mobilnet.seesaa.net
@@ -5787,7 +5723,6 @@ moeaudio.blog29.fc2.com
 moechnuru.blog96.fc2.com
 moeclo.ldblog.jp
 moecool.com
-moee.antenam.biz
 moeerolibrary.com
 moegalog.ldblog.jp
 moegazo.info
@@ -5883,13 +5818,11 @@ moneynetsoku.blog.fc2.com
 moneynews2ch.seesaa.net
 moneysokuho.blog.fc2.com
 monhan-syuukaizyo.doorblog.jp
-monhan.antenam.biz
 monhan.jyoraku.jp
 monhan2ch.doorblog.jp
 monhan4.fukkun.org
 monhan4000.blog.fc2.com
 monhang.net
-monhanmato.antenam.biz
 monhanmatome.blog.fc2.com
 monhansoku.blog.fc2.com
 monhanstreet.info
@@ -6159,7 +6092,6 @@ nanj.seesaa.net
 nanjaffy.blog.fc2.com
 nanjallstars.com
 nanjallstars.net
-nanjantena.antenam.info
 nanjantena.blog.jp
 nanjbaseball.blog.fc2.com
 nanjbaseball.com
@@ -6193,7 +6125,6 @@ nanmo.ldblog.jp
 nannanjj.com
 nanndemomatome2ch.blog.fc2.com
 nanndeyaj.blog.fc2.com
-nannj.antenam.biz
 nannj.blog.shinobi.jp
 nannjkusokote.blog64.fc2.com
 nannjyakiuoniityan.doorblog.jp
@@ -6448,7 +6379,6 @@ news-vip.net
 news-wadai.blogspot.com
 news-wadai.blogspot.jp
 news.ab-cafe.com
-news.antenam.biz
 news.auone.jp
 news.azwad.com
 news.baseball-license.com
@@ -6707,12 +6637,7 @@ nijiani2nd.blog.jp
 nijibon.com
 nijidog.blog.fc2.com
 nijiero-kaizoku.com
-nijigen.antenna-chan.info
-nijigen.antenna-jp.info
-nijigen.antenna-matome.info
-nijigen.antennain.info
 nijigen.me
-nijigenmoe.antenna-chan.info
 nijigennews.com
 nijiiro-news.com
 nijimen.net
@@ -6770,7 +6695,6 @@ niwakasokuhou.com
 niwaniwafootball.blog.fc2.com
 niwasoku.blog.jp
 niyaniyakaigai.seesaa.net
-niyariantena.kaeru.me
 nizi1.com
 niziero.com
 nizimate.ldblog.jp
@@ -6802,7 +6726,6 @@ no1white.com
 noe2.blog55.fc2.com
 nofootynolife.blog.fc2.com
 nogenre.xma.pw
-nogimatome.antenam.biz
 nogitweet.com
 nogizaka46democracy.blog.jp
 nogizaka46matomenoma.blog.jp
@@ -7086,7 +7009,6 @@ onigiriy.xxxxxxxx.jp
 onihimechan.com
 oniku.tonkotsu.jp
 oningyoasobi.dreamlog.jp
-onion.antenam.biz
 onisoku.info
 onitomediary.com
 oniyome-max.blog.jp
@@ -7195,7 +7117,6 @@ osakaitai.m.doorblog.jp
 osake-liquor.doorblog.jp
 osake11.url.ph
 osare-channel.blog.jp
-osare.antenam.biz
 osareantena.nicoch.org
 oshalets.com
 oshiete-antenna.com
@@ -7294,11 +7215,9 @@ owatanet.com
 oxoxo.dip.jp
 oyajiteki.blog.fc2.com
 oyoguyaruo.blog72.fc2.com
-oyomesanba.antenam.biz
 oyomesanba.ldblog.jp
 p-soku.net
 p.android-smart.com
-p.kaeru.me
 p2m.giox.org
 pachi777g.blog.fc2.com
 pachikouryaku.net
@@ -7377,7 +7296,6 @@ pawapuromatome.blog.fc2.com
 paz-pls.info
 pazdorapazpazw.com
 pazdra-antenna.net
-pazdra.antenam.info
 pazdra.hyadain.com
 pazdra.lovesoku.jp
 pazdra.xsrs.info
@@ -7393,15 +7311,12 @@ pazudora-l.com
 pazudora-matome.com
 pazudora-news.com
 pazudora-up.net
-pazudora.antenam.info
 pazudora.blomaga.jp
 pazudora.kirarinews.biz
 pazudora.matonews.com
 pazudora.netanews.biz
 pazudora2chmatome.blog.fc2.com
-pazudora7.antenam.biz
 pazudoraantena.com
-pazudorant.antenam.biz
 pazudorayarouzu.com
 pazudorayaruo.blog.fc2.com
 pazudorazsokuhou.blog.fc2.com
@@ -7409,16 +7324,13 @@ pazukyou.blog.fc2.com
 pazumato.com
 pazupazudoragon.blog.fc2.com
 pazusoku.blog.fc2.com
-pazz.antenam.info
 pazzdoranomatome.blog.fc2.com
-pazzledra.antenam.info
 pazznew.blog.fc2.com
 pc2chmatomekun.blog.fc2.com
 pch.viewerd.com
 pcnews.ldblog.jp
 pczisaker.blog.fc2.com
 pd.gamesp.jp
-pdmainichi.antenam.biz
 peace8888.blog102.fc2.com
 peach-soku4.com
 peach2ch.com
@@ -7501,7 +7413,6 @@ pokeantena.com
 pokelog.blog.jp
 pokemato.blomaga.jp
 pokemato.com
-pokematome.antenam.biz
 pokemon-antenna.net
 pokemon-bbs.net
 pokemon-matome.blog.jp
@@ -7511,7 +7422,6 @@ pokemon-sokuhou.doorblog.jp
 pokemon.fantena.net
 pokemon.gob.jp
 pokemon.jyoraku.jp
-pokemon2ch.antenam.biz
 pokemonkrsokuhou.blog.fc2.com
 pokemonn.info
 pokemonoras.net
@@ -7525,7 +7435,6 @@ pokemonxymatome.blog.fc2.com
 pokemonxyz.net
 pokesen.com
 pokesen.net
-pokesoku.antenam.biz
 pokesoku.jp
 pokesokumatome.blog.fc2.com
 pokezone.net
@@ -7556,7 +7465,6 @@ poorlife.info
 poppo456.s366.xrea.com
 popposokuhou.blog.fc2.com
 popyhouse.seesaa.net
-porco7.antenam.biz
 porn-film.net
 portal-antenna.com
 poside.seesaa.net
@@ -7599,7 +7507,6 @@ psycholeptic.blog.fc2.com
 psycholog1000.blog.fc2.com
 ptblog.net
 ptklark.blog.fc2.com
-ptp.antenam.biz
 pu-mato.com
 puerariainfo.blog45.fc2.com
 pugesoku.com
@@ -7613,13 +7520,11 @@ purisoku.com
 purotora.blogspot.com
 purotora.blogspot.jp
 purotora.com
-purupuru.fantena.pink
 pururunjoho.net
 puryu.com
 puti-soku.com
 putikonyu.blog112.fc2.com
 puukusukusu.blog.fc2.com
-puyoque.antenam.biz
 puyoque.com
 puyuyu2world.blog45.fc2.com
 puzdra.doorblog.jp
@@ -7646,7 +7551,6 @@ qch.viewerd.com
 qcp-qcp.com
 qmatome.com
 qq12399.seesaa.net
-qqsokuhou.antenam.biz
 qrex.net
 quartierlatin.biz
 quattro.publog.jp
@@ -7658,7 +7562,6 @@ quinbi.webcrow.jp
 r-18.org
 r-2ch.com
 r18ch.com
-r2da.antenam.biz
 ra-new.info
 rabitsokuhou2chblog.blogher.co
 rabrab.com
@@ -7912,7 +7815,6 @@ saga-antenna.com
 sagisyouzai-bokumetu.jp
 sai-teihen-game.ldblog.jp
 saidomira.blog.fc2.com
-saiga1.2chtena.link
 saigaijyouhou.com
 saigonojournalist.blogspot.com
 saigonojournalist.blogspot.jp
@@ -7949,7 +7851,6 @@ salutaire.blog.fc2.com
 samanaaz.blog.fc2.com
 same.ula.cc
 samish-island-cards.com
-samnews.antenam.info
 samosu.com
 samurai-antenna.com
 samurai-file.com
@@ -8046,21 +7947,12 @@ seiyu.all-rights.holdings
 seiyu.publog.jp
 seiyuch.dreamlog.jp
 seiyufan.livedoor.biz
-seiyumb.antenam.biz
-seiyuu-antena.antena-nijimatome.com
-seiyuu-antena.matome-antenam.com
 seiyuu-matome.com
-seiyuu.antena-matome-2ch.com
-seiyuu.antenna-chan.info
-seiyuu.antennain.info
 seiyuu.blog.jp
 seiyuu.dreamlog.jp
 seiyuu.seiyuu-antenna.info
-seiyuu2ch.antena-nijimatome.com
-seiyuuanime.antenna-jp.info
 seiyuuch.publog.jp
 seiyuumaniax.blog.fc2.com
-seiyuumoe.antennain.info
 seiyuusokuhou.blog106.fc2.com
 seizou.honwk.info
 sekachan.hybs.net
@@ -8072,7 +7964,6 @@ sekishite.com
 sekurosu.com
 selene.main.jp
 selfool.jugem.jp
-semmatome.antenam.info
 senburi2002.doorblog.jp
 sengokuapp.blog.fc2.com
 sensoku.blog.jp
@@ -8180,7 +8071,6 @@ shnew.blog.fc2.com
 shobon.jp
 shobony.com
 shock-tv.com
-shock.xn--l8jvdm6n9dqfno.jp
 shockingblog.jp
 shogimatome825.blog.fc2.com
 shonku.info
@@ -8239,7 +8129,6 @@ sironuma.blog39.fc2.com
 sirorss.kmt.xyz
 siruettosokuhou.com
 site-search.biz
-sitekabu.antenam.biz
 siyupad.blog.fc2.com
 sizukusokuhou.blog.fc2.com
 sk2ch.com
@@ -8394,7 +8283,6 @@ sp2ch.net
 sp4chan.ldblog.jp
 spacenews24.hatenablog.com
 spamari.blomaga.jp
-spantenna.antenam.biz
 spare-news.xii.jp
 sparkly.biz
 sparksokuhou.com
@@ -8417,7 +8305,6 @@ sports.gcluster.net
 sports.maid-3.net
 sports01.ka3soku.com
 sports9.pw
-sportsan.antenam.biz
 sportsdqn.blog28.fc2.com
 sportshouse.seesaa.net
 sportsnavi.dtiblog.com
@@ -8455,7 +8342,6 @@ ss2ch.r401.net
 ssbiyori.blog.fc2.com
 ssblog614.blog.fc2.com
 ssbonline.html.xdomain.jp
-ssdayo.antenam.info
 ssdenpa.com
 ssdesuno.blog.fc2.com
 ssflash.net
@@ -8503,7 +8389,6 @@ strangeworld-honten.com
 strawbenika.com.customer.dataweb.ne.jp
 streaming.fcim.org
 streetfighter.blog.jp
-strelka.kaeru.me
 strikess.jp
 strongbeam.blog.fc2.com
 studentsokuhou.blog.fc2.com
@@ -8534,6 +8419,7 @@ sukinyan.net
 sukiseiyuu.blog.fc2.com
 sukoyakasoku.com
 sukusoku.com
+sumabura1.blog.jp
 sumafo.publog.jp
 sumage.blogantenna.link
 sumaho-news.doorblog.jp
@@ -8622,7 +8508,6 @@ syurach.net
 syuramama.com
 syurasoku.blog.fc2.com
 syusyoku-soku.info
-syusyoku.antenam.biz
 syuuchisoku.com
 syuugooti.blog22.fc2.com
 syuzyou.info
@@ -8669,7 +8554,6 @@ takoyaki4610.cocolog-nifty.com
 taku1212.cocolog-nifty.com
 takuroch.ldblog.jp
 talentblog.net
-talentenna.antenam.biz
 tales-matomeria.net
 tales2channel.blog.fc2.com
 talkfusionaaaaa.seesaa.net
@@ -8772,7 +8656,6 @@ test-play.com
 test.logpo.jp
 test123814.blog.fc2.com
 testflag-on.info
-tesuto.kaeru.me
 tet.jp
 tettekesokuhou.doorblog.jp
 tettoyabuka.blog.fc2.com
@@ -8853,7 +8736,6 @@ tokka.alpha-blogs.com
 tokka.usagisokuhou.com
 tokkaavgekiyasu.blog107.fc2.com
 tokkaban.com
-tokkatokka.antenam.biz
 tokkouch.blog.fc2.com
 toku-mori.com
 tokua.info
@@ -8904,9 +8786,6 @@ top-one12.com
 top.teamwms.com
 topcurater.net
 topicks.jp
-topix013.10000fun.me
-topix030.10000fun.me
-topix039.10000fun.me
 topnewsmatome.blog.fc2.com
 toptweet.org
 tora-news.com
@@ -9122,7 +9001,6 @@ ukiukitoto.doorblog.jp
 ultimatematome.blogspot.com
 ultimatematome.blogspot.jp
 uma.an-te.net
-umakke.antenam.biz
 umamistreet.blog.fc2.com
 umashika-news.jp
 umashika-news.net
@@ -9319,11 +9197,6 @@ viprakoitaseiyu.blog.fc2.com
 viprapon.blog.jp
 vipru.blog.fc2.com
 vips.vipmen.biz
-vips01.ka3soku.com
-vips02.ka3soku.com
-vips03.ka3soku.com
-vips04.ka3soku.com
-vips06.ka3soku.com
 vipsister.blog72.fc2.com
 vipsister23.blogspot.com
 vipsister23.blogspot.jp
@@ -9526,7 +9399,6 @@ wintomorrow.at.webry.info
 winzdouga.blog108.fc2.com
 wish.black
 wizantena.net
-wizsokuhou.antenam.biz
 wk-tk.net
 wktk.at
 wkwk2chmatome.blog.fc2.com
@@ -9893,7 +9765,6 @@ yakusojin.blog50.fc2.com
 yakusoku420.blog90.fc2.com
 yakutena.com
 yakyu-niki.com
-yakyu.2chtena.link
 yakyu.matonews.net
 yakyu.nandej.net
 yakyu.xyz
@@ -9901,10 +9772,8 @@ yakyuboz.blog.fc2.com
 yakyuchan.blog.fc2.com
 yakyuda-yakyuda.blog.jp
 yakyumato.me
-yakyuno.antenam.biz
 yakyusokuhou.blog.fc2.com
 yakyuumatomeantena.info
-yakyuyakyu.antenam.info
 yamaarashisokuhou.blog106.fc2.com
 yamachan01.com
 yamada-antenna.com
@@ -9956,7 +9825,6 @@ yellowmoneymonkey.blog.fc2.com
 yeppl.com
 yesno2ch.com
 yggsoku.blog.fc2.com
-ygoduelist.antenam.biz
 yiwuimport.com
 yj114514.blog.fc2.com
 yjms.ldblog.jp
@@ -10039,7 +9907,6 @@ yugamedia.seesaa.net
 yugioh-no-rate.doorblog.jp
 yugioh.secret.jp
 yugioh2ch.web.fc2.com
-yugiohblog.antenam.biz
 yukawanet.com
 yuki.silk.to
 yukizzz.blogspot.com
