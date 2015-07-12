@@ -8,7 +8,7 @@
 [Google の設定ページ](https://www.google.co.jp/preferences)
 
 クイックリンク  
-**[Firefox](#firefox) [Chrome](#chrome) [Opera (15+)](#opera-15) [Opera 12 (Presto)](#opera-12-presto) [Android](#android)**  
+**[Firefox](#firefox) [Chrome](#chrome) [Opera (15+)](#opera-15) [Opera 12 (Presto)](#opera-12-presto) [Vivaldi](#vivaldi) [Android](#android)**  
 **[Youtuber フィルタ](#adblock-%E4%BA%92%E6%8F%9B-youtuber-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF)**
 
 ### Firefox
