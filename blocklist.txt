@@ -888,7 +888,6 @@ amidaras.blog.fc2.com
 amirena.info
 amnesiataizen.blog.fc2.com
 amusement-one.net
-amusing.news-source.jp
 amznkappa.blog.fc2.com
 an-immortal-flower.hatenablog.com
 an48.net
@@ -965,7 +964,6 @@ anime.antennasokuhou.info
 anime.chnuru.com
 anime.dougasouko.com
 anime.itemae1019.com
-anime.japanbuzz.net
 anime.live-engine.jp
 anime.lovesoku.jp
 anime.maid-3.net
@@ -973,7 +971,6 @@ anime.most-of.com
 anime.namusyaka.info
 anime.otya-to-milk.net
 anime.ppph.jp
-anime.sourcejapan.me
 anime.sub.jp
 anime.thinkfeel.net
 anime01.ka3soku.com
@@ -1064,6 +1061,7 @@ antena-2ch.net
 antena-matome-2ch.com
 antena-nijimatome.com
 antena-site.com
+antena.biz
 antena.compln.net
 antena.daki-makura.info
 antena.daynight.jp
@@ -1692,6 +1690,7 @@ butameshisokuhou.main.jp
 butasoku.doorblog.jp
 butatogame.blog.fc2.com
 buuuyan.blog.fc2.com
+buzz-antenna.biz
 buzz-plus.com
 buzz-soku.net
 buzz.fantena.com
@@ -2060,7 +2059,6 @@ darusoku.ldblog.jp
 dasasoku.blog.fc2.com
 dasasoku2ch.blog.fc2.com
 dat.2aa.jp
-dat.2chan.net
 datashiikemenonly.blog.fc2.com
 datochi2ch.blog91.fc2.com
 datosuhemi.dreamlog.jp
@@ -3234,9 +3232,6 @@ gossip-antenna.net
 gossip-i.com
 gossip-tokyo.com
 gossip.bestone-inc.com
-gossip.japanbuzz.net
-gossip.news-source.jp
-gossip.sourcejapan.me
 gossip1.net
 gossip1.wp-x.jp
 gossip2.net
@@ -3645,9 +3640,6 @@ hookey.blog106.fc2.com
 hope2ch.blog.fc2.com
 horahorazoon.blog134.fc2.com
 horiemon.com
-horror.japanbuzz.net
-horror.news-source.jp
-horror.sourcejapan.me
 horukan.blog.jp
 horukan.com
 horukanlite.com
@@ -3676,7 +3668,6 @@ housou-jiko.seesaa.net
 howkspride.blog133.fc2.com
 hoxan.sblo.jp
 hp2ch.jpn.ph
-hpmatome.antena.biz
 hpmatome.hotcom-web.com
 hpmatome.tumblr.com
 hsks.blog.jp
@@ -3986,6 +3977,7 @@ jank.matomeboy.blue
 janpda.blog.fc2.com
 jants.blog.jp
 japan.digitaldj-network.com
+japanbuzz.net
 japancool.sblo.jp
 japandorama.net
 japanese-bloggers.appspot.com
@@ -6406,6 +6398,7 @@ news-select.net
 news-soccer.net
 news-soku-matome.doorblog.jp
 news-sokuhou.2-d.jp
+news-source.jp
 news-three-stars.net
 news-trend-comcom.blog.so-net.ne.jp
 news-us.jp
@@ -6436,7 +6429,6 @@ news.hp59.net
 news.huku1.com
 news.iimonotokka.com
 news.japanbuzz.biz
-news.japanbuzz.net
 news.jeur.info
 news.kariyushi.jp
 news.lovesoku.jp
@@ -6447,7 +6439,6 @@ news.mikimedia.net
 news.minna.cc
 news.mm2ch.com
 news.mumei.org
-news.news-source.jp
 news.newssoku.info
 news.owata-net.com
 news.qlip.jp
@@ -6455,7 +6446,6 @@ news.qooqle.jp
 news.qwe.jp
 news.sns-park.com
 news.sodate.info
-news.sourcejapan.me
 news.ssctech.jp
 news.tokimeki-s.com
 news.tsuka-l.net
@@ -8315,6 +8305,7 @@ soudan1.biglobe.ne.jp
 sougench.blog.fc2.com
 sougousport.blog.so-net.ne.jp
 soupresed.com
+sourcejapan.me
 sourcek.jp
 souridaizin-channel.seesaa.net
 sousai.log2.me
@@ -9589,6 +9580,7 @@ xn--cck5a8g8a2cyf.com
 xn--cck5dwc455ntlx.net
 xn--cckdh5gqcb1g8hc7e.com
 xn--ccke7da9de3noexft929csfpb.com
+xn--cckta3ffn5a0pnc1d3251esfpb.biz
 xn--cckta3ffn5a0pnc1d3251esfpb.com
 xn--cckwa3gzdl0b.com
 xn--cckxa6aya7oydxcy638blsyak17amp2d.com
@@ -10034,7 +10026,6 @@ zin.doorblog.jp
 zinbun.denpark.net
 zinger-hole.net
 zinico.blog111.fc2.com
-zip.2chan.net
 zipdeerogazou.blog.fc2.com
 zipdeyaruo.blog42.fc2.com
 zipdeyaruo.com
