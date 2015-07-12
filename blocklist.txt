@@ -1,4 +1,3 @@
-.antenna-jp.info
 00-buck.com
 00612509.oseah.jp
 01chan.blog.fc2.com
@@ -1091,6 +1090,7 @@ antenna-chan.info
 antenna-click.com
 antenna-ga.com
 antenna-hub.com
+antenna-jp.info
 antenna-matome.com
 antenna-matome.info
 antenna-movie.seesaa.net
@@ -1708,6 +1708,7 @@ buzzul.net
 bwtcfofbktrifr.blog.fc2.com
 by-s.me
 byoesokubip.blog.jp
+c-it-soku.publog.jp
 c-prof.com
 c-ute.doorblog.jp
 c.2ch.net
@@ -6339,6 +6340,7 @@ nettotyanneru.boy.jp
 netuyo.xma.pw
 netwadai.wp.xdomain.jp
 netyougo.com
+neugier-nature.livedoor.biz
 never-say-never.blog.jp
 new-akiba.com
 new-pick.blogspot.com
