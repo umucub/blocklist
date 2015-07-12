@@ -66,6 +66,13 @@
 `Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0` 等のユーザーエージェントを入力する
 3. その後は Firefox の Google Hit Hider by Domain を使う方法と同じ
 
+### Vivaldi
+[Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef)
+をインストール
+
+1. URL バーに chrome-extension://nolijncfnkgaikbjbdaogikpmpbdcdef/manager.html と入力  
+その後は Chrome と同じ
+
 ### その他のブラウザ
 Google Hit Hider by Domain が使えるかも
 
