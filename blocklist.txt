@@ -1308,6 +1308,7 @@ b-spaceplan.com
 b.best-hit.tv
 b.matometa.org
 b.sutesoku.org
+babusoku.com
 babymetal-darake.hatenablog.com
 babymetal-news.blog.jp
 babymetal.blog.jp
@@ -2382,6 +2383,7 @@ enatamecap.net
 eneki.net
 engineo.info
 enigmarvel.com
+enjo.netoshin.net
 enjou-matome.com
 enjyounews.com
 enmato.blog.fc2.com
@@ -8996,6 +8998,7 @@ twitenna.jp
 twitmatome.bogus.jp
 twitmunin.com
 twitter-google.com
+twitter-matomengo.blog.jp
 twitter.com
 twitter.maybeuse.com
 twitton.me
