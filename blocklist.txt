@@ -1815,6 +1815,7 @@ cherrysokuhou.blog.fc2.com
 chi-wo.com
 chi.blog.jp
 chiakidokai.com
+chibarei.blog.jp
 chidamariskech.blog95.fc2.com
 chihosoku.com
 chihou.ldblog.jp
@@ -2008,6 +2009,7 @@ dabusoku.com
 dachshund.lolipop.jp
 daddy.rantenna.net
 daddyantenna.appspot.com
+daeisama1.blog.fc2.com
 daidarosusoku.seesaa.net
 daiettomatome.blog.fc2.com
 daiettomatome.seesaa.net
@@ -2203,6 +2205,7 @@ domeovntw.blog.fc2.com
 domino.sexy
 domusbalduina.info
 dondonsokuhou.blog.fc2.com
+donsoku.me
 dontena.doorblog.jp
 dopr.net
 dorahakase.com
@@ -2403,6 +2406,7 @@ entame.cashcow1019.com
 entame.fagent.biz
 entame.matonews.net
 entame.tsuboru.com
+entame385.blog.fc2.com
 entamebang.blog.jp
 entameblog.seesaa.net
 entamechannel.com
@@ -3405,6 +3409,7 @@ harahana.blog110.fc2.com
 haraitai.com
 hardmode999.blog.fc2.com
 harikonotora.net
+harinezumi.azvogel.com
 harofree.blog.fc2.com
 harowa.doorblog.jp
 harukakka.com
@@ -3934,6 +3939,7 @@ isaijapan.blog.fc2.com
 ishokudougen.com
 isikawaken-at-2ch.seesaa.net
 issyoanata.blog18.fc2.com
+it2ch.blog.jp
 it2ch.com
 itachnuru.blog95.fc2.com
 itadaki48.com
@@ -5608,6 +5614,7 @@ mh4matome.blog.fc2.com
 mh4n.com
 mh4news.doorblog.jp
 mhantena.com
+mhfchiraura.blog.fc2.com
 mhfg3000.blog.fc2.com
 mhfnetabare.blog.fc2.com
 mhkrsokuhou.blog.fc2.com
@@ -5685,6 +5692,7 @@ miruto.org
 miruzow.tvz.in
 misjt.com
 misril.co
+mitares.com
 mitemite.blog.jp
 mitena.net
 mithisoku.blog.fc2.com
@@ -5694,6 +5702,7 @@ miwotsukushi.net
 mix2ch.blog.fc2.com
 mix3.seesaa.net
 mixvip.ldblog.jp
+miya2tara3.seesaa.net
 miyadai454.hatenablog.com
 miznew.com
 mizuhonokuni.ldblog.jp
@@ -8335,6 +8344,7 @@ spgm.wp.xdomain.jp
 spiceboard.livedoor.biz
 spiral.ldblog.jp
 splatoon-matome.com
+splatoon-nawabari.com
 spnews.auone.jp
 spoch.info
 spon.me
@@ -9444,6 +9454,7 @@ winmato2.dip.jp
 wintomorrow.at.webry.info
 winzdouga.blog108.fc2.com
 wish.black
+wisteria.main.jp
 wizantena.net
 wk-tk.net
 wktk.at
