@@ -198,6 +198,7 @@
 2ch.cloudnote.jp
 2ch.co.jp
 2ch.cool-biz.net
+2ch.cutplaza.chu.jp
 2ch.diveluck.com
 2ch.dogeza.me
 2ch.ebookr.jp
@@ -1594,6 +1595,7 @@ bluerice.web.fc2.com
 bmhjs.com
 bmmato.com
 bn-times.com
+bnews.kouron.net
 bnn.li
 bob-cut.sakura.ne.jp
 boblo2.blog.fc2.com
@@ -2718,6 +2720,7 @@ freshnews-now.blog.so-net.ne.jp
 frgsjn.urllist.info
 frogbeat.publog.jp
 front-pages.appspot.com
+froute.jp
 fsokuvip.blog101.fc2.com
 fta7.jp
 fuck-book.info
@@ -2781,6 +2784,7 @@ fxmtm.net
 fxnetmatome.blog.fc2.com
 fxnews2channel.ldblog.jp
 fxstarting.blog.fc2.com
+fxstory.blog.so-net.ne.jp
 fxya.blog129.fc2.com
 fy-soku.doorblog.jp
 g-antena.com
@@ -3658,6 +3662,7 @@ hostlove-m.jp
 hostlovecom.blog.fc2.com
 hosyuquality.blog.jp
 hosyusokuhou.jp
+hotima.blogspot.jp
 hotkoreanews.blogspot.com
 hotkoreanews.blogspot.jp
 hotlog.blog.fc2.com
@@ -3892,6 +3897,7 @@ internetexplorer14.blogspot.jp
 internetnoshuhen.seesaa.net
 internetwalkers.com
 interplay.blog.jp
+inthepool.xsrv.jp
 inu.watasan.jp
 inudonburiokawari.blog.fc2.com
 inusoku.blog87.fc2.com
@@ -3998,6 +4004,7 @@ japangrid.com
 japanology.net
 japanpride1921.blog.fc2.com
 japantoday.me
+japcar.cc
 japohan.net
 japonism2ch.blog57.fc2.com
 japontimes.livedoor.biz
@@ -4338,6 +4345,7 @@ katsumokublog.com
 katsupachi.blog.jp
 katuru.com
 katuru2ch.blog12.fc2.com
+kawanonokyoukai.blog101.fc2.com
 kawasematomex.blog.fc2.com
 kawasoku.seesaa.net
 kaze.kachoufugetsu.info
@@ -4685,6 +4693,7 @@ kosyoge.blog.fc2.com
 kotaro269.com
 kotesaki639.blog.fc2.com
 kotesoku.blog.jp
+kotetsu.game-waza.net
 kotosoku.blog.fc2.com
 kotowarenu.blogspot.com
 kotowarenu.blogspot.jp
@@ -5112,6 +5121,7 @@ marunageeno2.seesaa.net
 maruran.bloggeek.jp
 marusoku.blogspot.com
 marusoku.blogspot.jp
+mary4.net
 masa.mamen-rider.net
 masamtg.diarynote.jp
 mashlife.doorblog.jp
@@ -5650,6 +5660,7 @@ mikusokuhou.doorblog.jp
 milch.pw
 mildch.com
 milfled.seesaa.net
+miliband.info
 military2013.blog.jp
 military38.com
 military8.net
@@ -5783,6 +5794,7 @@ mogitatebanana.doorblog.jp
 mogsco.blog.fc2.com
 mogsoku.doorblog.jp
 mogu2sokuhou.blog.fc2.com
+mogumogu.tv
 mogumogunet611.blog.fc2.com
 mogumogunews.com
 mogura.richtext.blue
@@ -5791,6 +5803,7 @@ mojinavi-trend.blog.so-net.ne.jp
 mojo.ikusoku.biz
 mojo2ch.jugem.jp
 mojoandkijo.blog.fc2.com
+mojomatome.net
 mojomojo-licarca.com
 mojonosakebi.com
 mokasoku.blomaga.jp
@@ -6429,6 +6442,7 @@ news.fadily.com
 news.favoch.com
 news.ferret-plus.com
 news.ferretroom.info
+news.fugarasa.com
 news.gamematonet.net
 news.go2ch.net
 news.guideme.jp
@@ -6791,6 +6805,7 @@ norinorismart.blog.fc2.com
 norinorisokuhou.com
 norisoku.com
 norswell.appspot.com
+northcountycoalition.com
 norubask.blog100.fc2.com
 norudo.jugem.jp
 nosoku.mass-mix.com
@@ -6831,6 +6846,7 @@ nunusoku.doorblog.jp
 nurihighschool.appspot.com
 nurudou.com
 nurupo.net
+nurusoku.seesaa.net
 nusota72ral.dreamlog.jp
 nuzzel.com
 nvmzaq.blog.fc2.com
@@ -7141,6 +7157,7 @@ oresoku.net
 oresoku110.blog.fc2.com
 oretati.blog.jp
 oreteki-matome.com
+oretekigame.livedoor.biz
 oretokuyaruoyara.blog101.fc2.com
 orewaro.blog.jp
 orewiz.mobi
@@ -7502,6 +7519,7 @@ ponpoma.ldblog.jp
 ponsoku.doorblog.jp
 ponsoku.net
 pony-tail.net
+poor.bangofan.com
 poorlife.info
 poppo456.s366.xrea.com
 popposokuhou.blog.fc2.com
@@ -8115,6 +8133,7 @@ shizu.0000.jp
 shjm.mire.jp
 shnew.blog.fc2.com
 shobon.jp
+shobonew.blog.fc2.com
 shobony.com
 shock-tv.com
 shockingblog.jp
@@ -8279,6 +8298,7 @@ sokuhohgekijyou.blog.fc2.com
 sokuhonew.blog.fc2.com
 sokuhoquality.blog.jp
 sokuhou-news.com
+sokuhou.cooklog.net
 sokuhou.jp
 sokuhou2ch.com
 sokuhougeha.blog110.fc2.com
@@ -9763,6 +9783,7 @@ xn--zck9awe6dr30vre5d.biz
 xn--zck9awe6du67rve5bm3b1u6i.com
 xnews.jp
 xoantenna.com
+xoxox.seesaa.net
 xperia.tame-log.com
 xsoku.com
 xsvx1020345.xsrv.jp
@@ -9905,6 +9926,7 @@ yoko.publog.jp
 yokofor.com
 yokohamabaystars.click
 yomi.mobi
+yomigee.blog87.fc2.com
 yomisute.blog.jp
 yomiyama.blog.fc2.com
 yomosoku.com
