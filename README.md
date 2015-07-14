@@ -74,7 +74,8 @@
 その後は Chrome と同じ
 
 ### その他のブラウザ
-Google Hit Hider by Domain が使えるかも
+#### Safari
+Tampermonkey \+ Google Hit Hider by Domain が使えるかもしれません
 
 ## Android
 ### デフォルトブラウザ
