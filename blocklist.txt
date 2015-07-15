@@ -33,6 +33,7 @@
 10cnt.blog.fc2.com
 10pic.jp
 10picweb.csdsol.com
+1111slot.com
 120.hp2.jp
 124.35.211.56
 12439310.blog.decoo.jp
@@ -365,14 +366,19 @@
 2chmatome-antena.com
 2chmatome-ex.com
 2chmatome-ex.livedoor.biz
+2chmatome-howto.net
+2chmatome-king.com
 2chmatome-ksr.blog.jp
 2chmatome-news.com
 2chmatome-search.com
+2chmatome-tyouhen.info
 2chmatome.biz
 2chmatome.black
 2chmatome.blog6.mmm.me
 2chmatome.dip.jp
+2chmatome.hatenadiary.jp
 2chmatome.jp
+2chmatome.livedoor.biz
 2chmatome.main.jp
 2chmatome.sakura.ne.jp
 2chmatome.wordpress.com
@@ -827,6 +833,7 @@ akbskenmbhktngt48.seesaa.net
 akbvoice.seesaa.net
 akege.blog.jp
 akeynews1111.seesaa.net
+aki-on.com
 akiba-hub.net
 akiba-matome.com
 akiba48.info
@@ -1107,6 +1114,7 @@ antenna.azurewebsites.net
 antenna.bex.jp
 antenna.eejo.info
 antenna.firebird.jp
+antenna.ga
 antenna.gift
 antenna.i-like-movie.net
 antenna.jp
@@ -5697,6 +5705,7 @@ minakoe.jp
 minamialpskun.hatenablog.com
 mindhack2ch.com
 minecraftantenna.info
+minfra.jp
 minisoku.blog97.fc2.com
 minkara.carview.co.jp
 minkchan.com
@@ -6750,6 +6759,7 @@ niru.xyz
 nirunirunu.blogspot.com
 nirunirunu.blogspot.jp
 nisekoichannel.blog.fc2.com
+nisesagi.com
 nishigaharakou.blog.jp
 nisoku-mnewsplus.seesaa.net
 nisoku-news.seesaa.net
@@ -9615,6 +9625,7 @@ xn--2ch-yb4b8dta.net
 xn--2ch-yb4b8dta.tgd.jp
 xn--2ch-yb4b8dta.ws
 xn--2ch-yb4b8dta1552hxq7a.net
+xn--2ch-yb4b8dta34ank7g.net
 xn--2ch-yb4b8dta38b7jhf.net
 xn--2ch-yb4b8dta4322exr3e.com
 xn--2ch-yb4b8dta5861k.com
