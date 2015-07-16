@@ -4,7 +4,21 @@
 [blocklist.txt](https://github.com/umucub/blocklist/raw/master/blocklist.txt)  
 [Hide Unwanted Results Data.csv](https://github.com/umucub/blocklist/raw/master/Hide%20Unwanted%20Results%20Data.csv)  
 
-**※使用すると検索結果の表示件数が少なくなるので、検索エンジンの設定で件数を多くした方がいいかもしれません**  
+データベースファイル
+https://github.com/umucub/blocklist/raw/master/db
+
+**使い方**
+* Personal Blocklist を使っている場合は、 chrome-extension_nolijncfnkgaikbjbdaogikpmpbdcdef_0.localstorage  
+をプロファイルフォルダ内の Local Storage フォルダへ上書き保存
+* Google Hit Hider by Domain を使っている場合は  
+Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.block  
+または、  
+Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.perma  
+をプロファイルフォルダ内の gm_script フォルダへ上書き保存
+
+**設定等は上書きされるので注意してください**
+
+**※このリストを使用すると検索結果の表示件数が少なくなるので、検索エンジンの設定で件数を多くした方がいいかもしれません**  
 [Google の設定ページ](https://www.google.co.jp/preferences)
 
 クイックリンク  
