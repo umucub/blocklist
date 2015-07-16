@@ -14,7 +14,9 @@ https://github.com/umucub/blocklist/raw/master/db
 Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.block  
 または、  
 Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.perma  
-をプロファイルフォルダ内の gm_script フォルダへ上書き保存
+どちらかを Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db にリネームした後(.block と .perma の違いは、  
+削除されたかどうかの通知があるかないか)  
+プロファイルフォルダ内の gm_script フォルダへ上書き保存
 
 **設定等は上書きされるので注意してください**
 
