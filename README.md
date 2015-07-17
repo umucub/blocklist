@@ -44,6 +44,9 @@ Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.perma
 1. アドオンメニューを開き、 Hide Unwanted Results of Google Search の設定画面を開く
 2. Import... と書いてあるボタンをクリックして、 Hide Unwanted Results Data.csv をインポート
 
+**インポートがうまくいかない場合は、 `about:config` から 設定名: `extensions.jid0-TpZJ4wPImlT1zIqfw58bD9vOeWQ@jetpack.unwantedSites`  
+を探してドメインを半角スペース区切りで追加してみてください**
+
 #### Google Hit Hider by Domain の場合
 1. Google で適当な語句を検索
 2. 検索結果のページ右側に Manage Hiding と書かれたボタンがあるのでクリック  
