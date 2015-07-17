@@ -66,7 +66,6 @@ youtube.com##[adblock-ytid="UCCJel9mmTsxDU9RiCwdiLiA"] /*サイヤマングレ�
 youtube.com##[adblock-ytid="UCCTrGiyHCGh7T0-g8YKrYfA"] /*トレンド情報チャンネル*/
 youtube.com##[adblock-ytid="UCCUd6vfPvpPHBWZ6XwXAlRQ"] /*MasuoTV*/
 youtube.com##[adblock-ytid="UCDEX-WnwI3Bxj2bjjWAz_eQ"] /*あきボー／Akihiro*/
-youtube.com##[adblock-ytid="UCDx8WE3NugPklgWE3VUcPhw"] /*sofu to*/
 youtube.com##[adblock-ytid="UCEDbvmBWolEdSQkywO7Q1GQ"] /*万事屋洋ちゃんねる*/
 youtube.com##[adblock-ytid="UCEES4rk0BT3bSZZvGA31oyg"] /*上杉征士*/
 youtube.com##[adblock-ytid="UCEIMvzf3R9d3_2A3IAajvHg"] /*赤髪のとものゲーム実況チャンネル!!*/
