@@ -135,6 +135,14 @@ Tampermonkey \+ Google Hit Hider by Domain が使えるかもしれません
 
 ***
 
+# AdBlock 互換 ツイカス フィルタ
+購読用リンク: https://github.com/umucub/blocklist/raw/master/twikasu.txt
+
+## ライセンス
+パブリックドメイン
+
+***
+
 # 連絡先等
 tanasinn@mail.ru
 
