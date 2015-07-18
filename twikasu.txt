@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Twikasu List
+! Expires: 1 days
+twitter.com##[data-screen-name="hamusoku"]
+twitter.com##[data-screen-name="lloownwuj"]
+twitter.com##[data-screen-name="yarare_kanrinin"]
+twitter.com##[data-screen-name="htmk73"]
