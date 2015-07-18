@@ -1,4 +1,4 @@
-# 検索時に邪魔になるサイトリスト / AdBlock 互換 YouTuber フィルタ
+# 検索時に邪魔になるサイトリスト / AdBlock 互換 YouTuber フィルタ / ツイカスフィルタ
 ## 使い方
 ファイルへの直リンク  
 [blocklist.txt](https://github.com/umucub/blocklist/raw/master/blocklist.txt)  
