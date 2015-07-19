@@ -275,3 +275,4 @@ youtube.com##[adblock-ytid="UCzkHSAUZUBP1MV2t8tqntdA"] /*瀬戸弘司ミニ*/
 youtube.com##[adblock-ytid="UCzqoAFObkB3Ptp92Jqg7CWQ"] /*あいも*/
 youtube.com##[adblock-ytid="UCzufaGFZLYnIzI1QXNdk9CA"] /*MasuoGames*/
 youtube.com##[adblock-ytid="UCzyqpBZkocV1dDgMhFJR-bA"] /*Megumi Games*/
+youtube.com##[adblock-ytid="UC5SHYdNJOii9A0FZKw9O2ng"] /*Ku Ro*/
