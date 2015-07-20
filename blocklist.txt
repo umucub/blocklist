@@ -1560,6 +1560,7 @@ blog.livedoor.jp.2-t.jp
 blog.livelog.biz
 blog.m.livedoor.jp
 blog.matomechan.info
+blog.mmm.me
 blog.nakatanigo.net
 blog.nanikorenews.com
 blog.netadreport.com
@@ -5146,7 +5147,6 @@ mannyuuki.seesaa.net
 manshitsukanri.com
 mantena.syoh.jp
 maoyuss.blog.fc2.com
-mapion.co.jp
 marikoshape.blog.fc2.com
 marimoru765.blog.fc2.com
 mariokart8.jp
@@ -5604,7 +5604,6 @@ medaka489.blog.jp
 medasoku.blog.jp
 media-shelf.net
 media.banksy-japan.com
-media.jorudan.co.jp
 mediab.info
 mediabox.blog38.fc2.com
 mediahot.info
@@ -6487,6 +6486,7 @@ news.ab-cafe.com
 news.auone.jp
 news.azwad.com
 news.baseball-license.com
+news.cafeblog.jp
 news.careerconnection.jp
 news.chnuru.com
 news.cnects.net
@@ -6501,7 +6501,6 @@ news.guideme.jp
 news.happy-affiliate.com
 news.hareplace.com
 news.harikonotora.net
-news.home-tv.co.jp
 news.hp-sien.com
 news.hp59.net
 news.huku1.com
