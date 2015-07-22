@@ -1,5 +1,9 @@
 # 検索時に邪魔になるサイトリスト / AdBlock 互換 YouTuber フィルタ / ツイカスフィルタ
-## 使い方
+
+* 検索時に邪魔になるサイトのリストです。他には AdBlock 等の広告をブロックするアドオンで  
+使用できるフィルタがあります
+
+## 検索時に邪魔になるサイトリストの使い方
 ファイルへの直リンク  
 [blocklist.txt](https://github.com/umucub/blocklist/raw/master/blocklist.txt)  
 [Hide Unwanted Results Data.csv](https://github.com/umucub/blocklist/raw/master/Hide%20Unwanted%20Results%20Data.csv)  
@@ -7,27 +11,31 @@
 データベースファイル
 https://github.com/umucub/blocklist/raw/master/db
 
-**使い方**  
-**上書きする際はブラウザを閉じてからしてください**  
-**設定等は上書きされるので注意してください**
+### データベースファイルの使い方  
+**※※※上書きする際はブラウザを閉じてからしてください※※※**  
+**※※※設定等は上書きされるので注意してください※※※**
 
-* Personal Blocklist を使っている場合は、 chrome-extension_nolijncfnkgaikbjbdaogikpmpbdcdef_0.localstorage  
-をプロファイルフォルダ内の Local Storage フォルダへ上書き保存
-* Google Hit Hider by Domain を使っている場合は  
-Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.block  
-または、  
-Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.perma  
-どちらかを Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db にリネームした後(.block と .perma の違いは、  
-削除されたかどうかの通知があるかないか)  
-プロファイルフォルダ内の gm_scripts フォルダへ上書き保存
+* Personal Blocklist の場合  
+    chrome-extension_nolijncfnkgaikbjbdaogikpmpbdcdef_0.localstorage  
+    をプロファイルフォルダ内の Local Storage フォルダへ上書き保存
+
+* Google Hit Hider by Domain の場合  
+    Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.block  
+    または  
+    Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db.perma  
+    どちらかを Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites).db にリネームした後  
+    プロファイルフォルダ内の gm_scripts フォルダへ上書き保存  
+    (.block と .perma の違いは、削除されたかどうかの通知があるかないか)
 
 **※このリストを使用すると検索結果の表示件数が少なくなるので、検索エンジンの設定で件数を多くした方がいいかもしれません**  
 [Google の設定ページ](https://www.google.co.jp/preferences)
 
-クイックリンク  
-**[Firefox](#firefox) [Chrome](#chrome) [Opera (15+)](#opera-15) [Opera 12 (Presto)](#opera-12-presto) [Vivaldi](#vivaldi) [その他のブラウザ](#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6)  
-[Android](#android)**  
-**[Youtuber フィルタ](#adblock-%E4%BA%92%E6%8F%9B-youtuber-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF)**
+ページ内リンク  
+[Firefox](#firefox) [Chrome](#chrome) [Opera (15+)](#opera-15) [Opera 12 (Presto)](#opera-12-presto) 
+[Vivaldi](#vivaldi) [その他のブラウザ](#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6)  
+[Android](#android)  
+[Youtuber フィルタ](#adblock-%E4%BA%92%E6%8F%9B-youtuber-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF)
+ [ツイカスフィルタ](#adblock-%E4%BA%92%E6%8F%9B-%E3%83%84%E3%82%A4%E3%82%AB%E3%82%B9-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF)
 
 ### Firefox
 [Hide Unwanted Results of Google Search](https://addons.mozilla.org/ja/firefox/addon/hide-unwanted-results-of-go/)
