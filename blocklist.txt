@@ -345,6 +345,7 @@
 2chimagematome.web.fc2.com
 2chitai.blog.jp
 2chkaku.info
+2chkankore.seesaa.net
 2chkeiba2chkeiba.blog.fc2.com
 2chkeibanews.blog39.fc2.com
 2chkeizaimatome.blog.fc2.com
@@ -1782,6 +1783,7 @@ camp.colonytown.jp
 camp.matomeboy.blue
 campuslife2ch.blomaga.jp
 canaldistrict.org
+cancolle.info
 candyinprogress.net
 capsulecorp.studio-web.net
 capybaratihou.blomaga.jp
@@ -2843,7 +2845,10 @@ furifuritusin.blog.fc2.com
 furuapp.net
 furubokko.net
 furuegoe.ldblog.jp
+futaba.ldblog.jp
 futabama.com
+futabatoshiaki.blog.fc2.com
+futabatoshiaki.seesaa.net
 futalog.com
 fuu2ch.com
 fuuinyusha.com
@@ -2969,6 +2974,7 @@ gameinformation.info
 gameinvip.web.fc2.com
 gamejikkyoumatome.blog.fc2.com
 gameking89.blog.fc2.com
+gamekouryaku2010.blog129.fc2.com
 gamelove.livedoor.biz
 gamemato.me
 gamematome-antena
@@ -3398,6 +3404,7 @@ gundam-antena.blogspot.com
 gundam-antena.blogspot.jp
 gundam.antenna-site.info
 gundam1uruyo.blog.fc2.com
+gundamnews.main.jp
 gundamseries.doorblog.jp
 gundamseries.net
 gunji-douga.fem.jp
@@ -3706,6 +3713,7 @@ hn-antena.com
 hn-antena.sakura.ne.jp
 hobby-sp.com
 hobbychnuru.blog41.fc2.com
+hobbylog.jp
 hobbysoku.com
 hobo2ch.doorblog.jp
 hobonichielog.com
@@ -4382,9 +4390,11 @@ kanchigai.blog.shinobi.jp
 kanchiku.info
 kancol.blog.fc2.com
 kancolle-antena.com
+kancolle-kawara.blog.jp
 kancolle-l.com
 kancolle-matome.com
 kancolle-news.com
+kancolle-ss.com
 kancolle.ch
 kancolle.doorblog.jp
 kancolle.lovesoku.jp
@@ -4416,6 +4426,7 @@ kankore.rantenna.com
 kankore37.fool.jp
 kankorekaisou.blog.fc2.com
 kankorematome.blog.fc2.com
+kankorenews.blog.fc2.com
 kanmusu-kankore.com
 kanmusu.blomaga.jp
 kanmusu.com
@@ -5699,6 +5710,7 @@ maxikareponchi.blog.fc2.com
 maxnews.biz
 maxsoku.blog.fc2.com
 may.2chanlog.net
+may2chan2.blog77.fc2.com
 may841.blog9.fc2.com
 mayasuke.blog68.fc2.com
 mayone-zu.net
@@ -6252,6 +6264,7 @@ naitei.info
 naitter.hippy.jp
 najmatome.seesaa.net
 nakamichisokuho.com
+nakana.blog.jp
 nakanohitonikite.blog.fc2.com
 nakasoku.blog18.fc2.com
 nakedblonde.blog.fc2.com
@@ -6353,6 +6366,7 @@ nannjkusokote.blog64.fc2.com
 nannjyakiuoniityan.doorblog.jp
 nanntokasokuhou.blog.fc2.com
 nanntopi.blog5.fc2.com
+nanodesu.ldblog.jp
 nanos.jp
 nanpa-antenna.com
 nanpinshimasuta.blog.fc2.com
@@ -8710,6 +8724,7 @@ subcultusin.net
 subcuroute.blog.jp
 subonews.com
 sudama.biz
+suehara.blog.fc2.com
 sugoipcge.jugem.jp
 sugoiyasokuhou.doorblog.jp
 sugomovies.red
@@ -9149,6 +9164,7 @@ toturu.blog.fc2.com
 toubakublog.com
 touch-me-not.appspot.com
 touhougensou.doorblog.jp
+touhoumatometai.blog.jp
 touken-2ch.blog.jp
 tourabu.blog.jp
 tourabumatome.com
@@ -9964,6 +9980,7 @@ xn--lckr9bvabb5c6e9ewaf2gf5jp332gxb3b.com
 xn--lckueweo51pf7b.com
 xn--m9jd9dn5191cre5d.com
 xn--max-6i4bun494ohlyc.com
+xn--mckvcxa3ib5hp954axr3e.com
 xn--mckvcxa4ipd.net
 xn--mckwaff3aq6ah0pra3fsck9c4lfgb8181qor4b26zdy4ug.com
 xn--n8j3a4dxap8m.gaasuu.com
@@ -10048,6 +10065,7 @@ xn--wiki-973c4mifnlhby6ai120c0ssbnl9a.com
 xn--wiki-ok4cbu5nnesb76aw492c85ub4g4h.com
 xn--x-eeu4cya1d8f3a4eudue.jp
 xn--xckd3acz1kuc4a.com
+xn--y8j1a0pyf.jp
 xn--y8j7byc2ludqitc8775blsyak17amp2d.com
 xn--yckzdmc6f.com
 xn--z-feu4c5bmj7bznod.com
