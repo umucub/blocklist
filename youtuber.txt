@@ -308,3 +308,7 @@ youtube.com##[adblock-ytid="UCzkHSAUZUBP1MV2t8tqntdA"] /*瀬戸弘司ミニ*/
 youtube.com##[adblock-ytid="UCzqoAFObkB3Ptp92Jqg7CWQ"] /*あいも*/
 youtube.com##[adblock-ytid="UCzufaGFZLYnIzI1QXNdk9CA"] /*MasuoGames*/
 youtube.com##[adblock-ytid="UCzyqpBZkocV1dDgMhFJR-bA"] /*Megumi Games*/
+youtube.com##[adblock-ytid="UCbKAevOoXCCoqPRPAwerpdA"] /*ボタニカルＴＶ*/
+youtube.com##[adblock-ytid="UC3InR-gXedvwLKhsRxfrlXw"] /*金ちゃんのニュース速報*/
+youtube.com##[adblock-ytid="UCI-6Y5L2WbjbyUlZOqEs44Q"] /*toyoda pango*/
+youtube.com##[adblock-ytid="UCy1dbxyI-5ci_ir77a_l_oQ"] /*チャンネルZERO*/
