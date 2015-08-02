@@ -643,6 +643,7 @@
 777-slot.xyz
 777777bb777.blog.jp
 777slotle.club
+777soku.blog.fc2.com
 777threeseven777.blog.fc2.com
 7841dd5172.seesaa.net
 7ch.viewerd.com
@@ -5478,6 +5479,7 @@ matome.alloapps.com
 matome.animench.com
 matome.antenaman.com
 matome.appsoku.biz
+matome.atdxsin2.com
 matome.bgtrock.com
 matome.biz
 matome.boy.jp
@@ -5939,6 +5941,8 @@ minnyuu.jp
 minp-matome.jp
 minpuzz.com
 minsoku.dreamlog.jp
+minsoku.livedoor.biz
+minsoku.tk
 minsuta.seesaa.net
 minsyuunai.blog.fc2.com
 minuskakugo.blogspot.com
@@ -7072,6 +7076,7 @@ noe2.blog55.fc2.com
 nofootynolife.blog.fc2.com
 nogenre.xma.pw
 nogitweet.com
+nogizaka46-zero.dreamlog.jp
 nogizaka46-zero.xyz
 nogizaka46democracy.blog.jp
 nogizaka46matomenoma.blog.jp
@@ -7372,6 +7377,7 @@ oniyome-max.dreamlog.jp
 oniyome-max.xyz
 oniyome.ldblog.jp
 oniyome.net
+oniyome7.com
 oniyomech.livedoor.biz
 oniyomediary.com
 onizorimach.com
@@ -7832,6 +7838,7 @@ ponkotsu1.com
 ponkotsuking.blog.jp
 ponkotu.publog.jp
 ponnponnsoku.seesaa.net
+ponpokonwes.blog.jp
 ponpoma.ldblog.jp
 ponsoku.doorblog.jp
 ponsoku.net
@@ -8444,6 +8451,7 @@ shino134.blog22.fc2.com
 shinobi-room.com
 shinobuyamaneko.blog81.fc2.com
 shinsoku.ldblog.jp
+shinyakutoaru.blog.jp
 shiranui.gundari.info
 shiraselab.com
 shirasoku.blog.jp
@@ -9079,6 +9087,7 @@ ten.sakura.ne.jp
 tencoch.com
 tenkomo.blog46.fc2.com
 tenkomo.com
+tenkomoriwotisure.blog.fc2.com
 tenniscoach.seesaa.net
 tennismato.com
 tenper.seesaa.net
@@ -9200,6 +9209,7 @@ tokotonsokuhou967.blog.fc2.com
 toku-mori.com
 tokua.info
 tokuahoukai-antenna.com
+tokuasoku.blog.jp
 tokuasoku.info
 tokuavoice.blogspot.com
 tokuavoice.blogspot.jp
@@ -9828,6 +9838,7 @@ watagee3.blog.fc2.com
 watame.moe.hm
 wataruwata.blog90.fc2.com
 watashe.blog135.fc2.com
+watashi2.blog.fc2.com
 watasimatome.seesaa.net
 watasugo.blog.jp
 watayuki.blog.jp
@@ -10238,6 +10249,7 @@ xxbp.net
 xxeronetxx.info
 xxl.fc3.xyz
 xxlovebattlexx.blog.fc2.com
+xxx.xvid.uno
 xxxdracuraxxx.blog10.fc2.com
 xxxkaigaixxx.blog.fc2.com
 xxxkikimimixxx.blog.fc2.com
@@ -10256,6 +10268,7 @@ yabainews.com
 yabasu-sokuhou.blue
 yabee.nyanta.jp
 yabesoku.blog.jp
+yagoogle.blog.jp
 yahhoinews.blogspot.com
 yahhoinews.blogspot.jp
 yaho.blog.jp
