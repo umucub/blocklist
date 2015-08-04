@@ -168,6 +168,7 @@
 2ch-rss.net
 2ch-runner.com
 2ch-s.net
+2ch-sc.net
 2ch-search.com
 2ch-spot.com
 2ch-sujinashinews.dreamlog.jp
@@ -177,6 +178,7 @@
 2ch-tl.com
 2ch-topics.blog.jp
 2ch-tsuri.click
+2ch-uwaki.com
 2ch-vip.seesaa.net
 2ch-visualantenna.com
 2ch-walker.net
@@ -336,6 +338,7 @@
 2chgeinou.blomaga.jp
 2chgeinou.com
 2chgeinounews.seesaa.net
+2chgravure.seesaa.net
 2chhandbooks.blog.fc2.com
 2chhimanekosokuhou.blog.fc2.com
 2chhot.blog.fc2.com
@@ -2053,6 +2056,7 @@ credit.mass-mix.com
 creditcardmatome.com
 creek.doorblog.jp
 creitstest.com
+crimsonwars.org
 cropo2ch.seesaa.net
 crossbreed.tv
 crowsnest.tv
@@ -3776,6 +3780,7 @@ holakikou.com
 hold-hands-style.com
 home-police.com
 home.sakura87.net
+homerun.blog.jp
 homerun77.doorblog.jp
 homu2.weblog.am
 honban-1-7-5.haijin2ewspaper.appspot.com
@@ -4518,6 +4523,7 @@ kasegeru.blog.jp
 kasegeru09.blog.fc2.com
 kaseguzofx.blog.fc2.com
 kashasoku.doorblog.jp
+kasi-at-2ch.seesaa.net
 kasikokusikaku.blog.fc2.com
 kasiwagi.ldblog.jp
 kasoku-anntena.uh-oh.jp
@@ -8727,6 +8733,7 @@ sparksokuhou.com
 special.hallowradio.blue
 specialnews.xyz
 specialsite.blog.fc2.com
+specificasia2.blog12.fc2.com
 speedmania.jp
 speednews.blog.jp
 speichez.blog.fc2.com
@@ -9998,6 +10005,7 @@ xn--10-yg4a1a3kyht157a1gc.com
 xn--18-dh4ad0ewc1ar8d7gvfc0125ohkxb.net
 xn--18-lg4adt0ag9hzdrayz6g5i2gc0k3g8950for4b26zdy4ug.com
 xn--2-meu0a8cn5x5dt779bco4a.com
+xn--2-p9tqb9evb7b4381cxr3e.com
 xn--201x-4c4cx17p0fm7sykydk78bmp5dthe89n.net
 xn--28j3f296j4hlf7s.biz
 xn--28j3fp61hx3rfpsu0rz3v.com
