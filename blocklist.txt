@@ -85,6 +85,7 @@
 223review.blog.fc2.com
 22ch.info
 234ch.net
+24hashtags.com
 24house.biz
 24vice.biz
 25nikki.blog.fc2.com
@@ -2533,6 +2534,7 @@ eigajunkies.com
 eighter.blog.jp
 eigoenjoy.blog.fc2.com
 ejw7n1za.blog.fc2.com
+ekla.in
 ekusan.blog.fc2.com
 ele-soku.zsw.jp
 elekips.blog.fc2.com
@@ -2687,6 +2689,7 @@ eviantvjohnnysnews.blog.fc2.com
 evosoku.seesaa.net
 evx.jp
 ex14.vip2ch.com
+exam-soku.info
 exawarosu.blogher.co
 exawarosu.net
 executive-winner.mobi
@@ -3392,6 +3395,7 @@ gk-news.blog.so-net.ne.jp
 gkbr2ch.com
 gkbrgkbr2.blog.fc2.com
 gkinews.com
+glable.blog.jp
 global-soku.info
 glovej.blog.fc2.com
 gluxi8884.seesaa.net
@@ -3631,6 +3635,7 @@ hanshintigers72.seesaa.net
 hansoku-matome.blog.jp
 hantasy.com
 hantena.dreamlog.jp
+hanyasoku.com
 hao123.com
 haorenoyome.blog.fc2.com
 hapiasi.com
@@ -3659,6 +3664,7 @@ haruka1027.blog.jp
 harukakka.com
 haruppi.blog.jp
 harusuki.net
+hashgurus.com
 hashigenews.blog.fc2.com
 hasimotti.blog137.fc2.com
 hasshinkyoku.blog.jp
@@ -4324,6 +4330,7 @@ jijisoku.com
 jijisoku.seesaa.net
 jijizoo.seesaa.net
 jikenboalpha.blog.fc2.com
+jikenda.sakura.ne.jp
 jikkentyuu.wordpress.com
 jikkoujitsugen.com
 jiko.ldblog.jp
@@ -4427,6 +4434,7 @@ judoden.blog.jp
 juggler-peka.net
 juicejiuce.seesaa.net
 juicejuice.blog.jp
+juicysoku.blog.jp
 juken.dreamlog.jp
 juken.wpblog.jp
 jukenngoukaku5.seesaa.net
@@ -5448,6 +5456,7 @@ mamenavi.otonacon.jp
 mamesoku.com
 mamezine.net
 mamisoku.com
+mamosoku.blog.jp
 man10.info
 mananimoenews.livedoor.biz
 manape036.blog.fc2.com
@@ -5997,6 +6006,7 @@ melo.s3.xrea.com
 melodealer.com
 melonn.net
 melonnews.blog.jp
+meltdown.ldblog.jp
 meme-mag.net
 memech.blog.fc2.com
 memob.net
@@ -6503,6 +6513,7 @@ muraryo.com
 murasamemaru.seesaa.net
 murasoku.link
 muriso9.blog.fc2.com
+muriso9.com
 muryoupaipann.blog.fc2.com
 musasabiantenna.com
 mushosoku.blog.jp
@@ -7775,6 +7786,7 @@ otanew-soku.blog.jp
 otanew.jp
 otanews.livedoor.biz
 otasoku.livedoor.biz
+otasoku.net
 otasokuw.blog.fc2.com
 otasta.com
 otodas.com
@@ -8068,6 +8080,7 @@ pokopokonews.blog.fc2.com
 polandball.blog.fc2.com
 polarisls.com
 polaron.blog40.fc2.com
+polite-kijyo.net
 politics.chnuru.com
 pololinrin.com
 polyphonicar2010.blog51.fc2.com
@@ -9785,6 +9798,7 @@ uch.viewerd.com
 uchidaaa.blog.fc2.com
 uchitome.com
 uchu2ch.blog.fc2.com
+udasoku.blog.jp
 ue-bu.com
 ue47.com
 ufo.matomeboy.blue
@@ -10811,6 +10825,7 @@ yusaani.com
 yutori2ch.blog67.fc2.com
 yutorisokuhou777.blog.fc2.com
 yuugioh.blog-rpg.com
+yuujirouhnnma.blog.fc2.com
 yuuna.ameba.jp.net
 yuuoku.blog.fc2.com
 yuve.blog133.fc2.com
