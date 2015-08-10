@@ -141,6 +141,7 @@
 2ch-matome-info.blog.jp
 2ch-matome-matome.com
 2ch-matome-news.blog.jp
+2ch-matome-news.net
 2ch-matome-reader.appspot.com
 2ch-matome-shumiblog.seesaa.net
 2ch-matome-tanaka.seesaa.net
@@ -1085,6 +1086,7 @@ animezuki.blog.jp
 aninfo.info
 anipicto.ldblog.jp
 anipo.jp
+anisocneet.blog.jp
 anisoku-matome.dreamlog.jp
 anisoku.dreamlog.jp
 anisoku.info
@@ -1151,6 +1153,7 @@ antenam.info
 antenam.jp
 antenaman.com
 antenan.info
+antenassu.com
 antenatayori.antn.info
 antenavi.net
 antenna-3.com
@@ -2270,6 +2273,7 @@ detail.chiebukuro.yahoo.co.jp
 detasoku.blog.fc2.com
 dev.matobu.com
 dev.omoronewsmato.me
+devalon.biz
 devsoku.doorblog.jp
 dezasoku.blog.jp
 dezineo.com
@@ -2719,6 +2723,7 @@ fansoku.jp
 fansoku04.blog.jp
 fansokuproc.blog.fc2.com
 fansummit.net
+fantena.net
 fantena.pink
 fas-matome.com
 fash.jp
@@ -2739,6 +2744,7 @@ favlst.com
 favo-to-to.com
 favoch.com
 favoch.wpblog.jp
+favoru.net
 favsoku.livedoor.biz
 fb-page.link
 fbmaster.net
@@ -3666,6 +3672,7 @@ haruppi.blog.jp
 harusuki.net
 hashgurus.com
 hashigenews.blog.fc2.com
+hashtags24.com
 hasimotti.blog137.fc2.com
 hasshinkyoku.blog.jp
 hasyagu.blog60.fc2.com
@@ -5496,6 +5503,7 @@ mannanoeroetaiken.blog.fc2.com
 mannyomi.blog.fc2.com
 mannyuuki.seesaa.net
 manshitsukanri.com
+mantena.link
 mantena.syoh.jp
 maoyuss.blog.fc2.com
 mappingsord.appspot.com
@@ -5828,6 +5836,7 @@ matomeofmatome.doorblog.jp
 matomeofmatomes.net
 matomeon.wp.xdomain.jp
 matomeplus.info
+matomeplus.jp
 matomeplus.ldblog.jp
 matomeplus.sakura.ne.jp
 matomepoke.blog.fc2.com
@@ -5876,6 +5885,7 @@ matometa.dreamlog.jp
 matometa.link
 matometa.org
 matometai.com
+matometal.blogspot.jp
 matometal.hateblo.jp
 matometanews.animebig.com
 matometanews.blog.fc2.com
@@ -5925,6 +5935,7 @@ matomex.red
 matomex1.com
 matomex777.blog.fc2.com
 matomexmatome.com
+matomeya.info
 matomeya.publog.jp
 matomeyade.blog.fc2.com
 matomeyakata.cocolog-nifty.com
@@ -6766,6 +6777,7 @@ nekowan800.blog101.fc2.com
 nelsonvisitorguide.com
 nemunew.blog.fc2.com
 nenashigusanora.hatenablog.com
+nenenews.net
 nenshusokuho.doorblog.jp
 nensyu.honwk.info
 neo2184.com
@@ -7646,6 +7658,7 @@ onunume.biz
 onunumematome.blog.shinobi.jp
 ookamichan.blog.jp
 ookamidol.blog.jp
+ookamisokuho.blog.jp
 oopsinfo.com
 oopsoku.blog.fc2.com
 oosakafu-at-2ch.seesaa.net
@@ -7836,6 +7849,7 @@ owata.chann.net
 owata8.com
 owata89.blog.fc2.com
 owatanet.com
+owt.io
 oxoxo.dip.jp
 oya.red
 oyajiteki.blog.fc2.com
@@ -9446,6 +9460,7 @@ test-play.com
 test.logpo.jp
 test123814.blog.fc2.com
 testflag-on.info
+testkun.blog.jp
 tet.jp
 tettekesokuhou.doorblog.jp
 tettoyabuka.blog.fc2.com
@@ -9875,6 +9890,7 @@ urayamashikaran.blog44.fc2.com
 urayamaurayama.blog.fc2.com
 urisurematome.blog6.fc2.com
 uruujin.blog11.fc2.com
+us.fc2.uno
 usachannel.info
 usagicrush.xyz
 usagisite.blog.jp
@@ -10131,6 +10147,7 @@ warai.ldblog.jp
 warai.maid-3.net
 waraich.blog.jp
 waraich.ldblog.jp
+waraidane.wp.xdomain.jp
 waraimatome.seesaa.net
 waraix.hatenablog.jp
 warakasu.com
