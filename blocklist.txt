@@ -327,6 +327,7 @@
 2chdays.net
 2chdb.net
 2chdesu944.seesaa.net
+2chdewadai.com
 2chdiet.blog.jp
 2chdiet.com
 2chdiet.net
@@ -604,6 +605,7 @@
 365dys.com
 37121473.fouka.jp
 38look.blog.fc2.com
+39400502.blog.fc2.com
 3ch.pw
 3ch.viewerd.com
 3dsantena.com
@@ -898,9 +900,11 @@ akiba-matome.com
 akiba48.info
 akibamoe.net
 akihiro-anime.com
+akiiy.com
 akimoto.ldblog.jp
 akkinews.net
 aklom.net
+akogareno-genokai.com
 akudoumtm.blog.fc2.com
 akunaki-seikatu.com
 akunii.blog.fc2.com
@@ -1263,6 +1267,7 @@ applech.dreamlog.jp
 applelocation.blog.fc2.com
 appleriders.com
 appli-antenna.com
+appli.publog.jp
 appli.pupu.jp
 applinews24.com
 appmatome.net
@@ -1669,6 +1674,7 @@ blog.matomechan.info
 blog.mmm.me
 blog.nakatanigo.net
 blog.nanikorenews.com
+blog.nekotekinews.com
 blog.netadreport.com
 blog.nonohibifubu.com
 blog.nyaasoku.com
@@ -2070,6 +2076,7 @@ college-matome.com
 college2ch.blomaga.jp
 color2ch.com
 colorful-hp.net
+colorfulnews.info
 combatsports.biz
 comic-center.info
 comic.2ch-library.com
@@ -2316,6 +2323,7 @@ dietlive.net
 dietmatome.doorblog.jp
 dietmatome.net
 dietmedia2ch.com
+dietportal.blog.fc2.com
 diett.red
 dietter.blog.jp
 dig.2ch.net
@@ -2485,6 +2493,7 @@ dqx.antena-ch.info
 dragon-dokkan.net
 dragonball-super.com
 dragonballonline.info
+dragonballsokuhou.net
 dragonnest.valuesv.jp
 dragonquest12.blog.fc2.com
 dragonquestmsl.blog.fc2.com
@@ -3165,6 +3174,7 @@ garusoku.com
 gasoku.livedoor.biz
 gastnoch.com
 gatena.net
+gatheraround.xyz
 gatimuti.doorblog.jp
 gatiwaro.blog.fc2.com
 gayaruantenna.com
@@ -3237,6 +3247,7 @@ geinou-gossip.net
 geinou-gossipssu.com
 geinou-hima-now.blog.jp
 geinou-jouhou-kyoku.mobi
+geinou-navi.club
 geinou-newstarsokuhou.blog.jp
 geinou-omoikkiri.seesaa.net
 geinou-ota-sokuhou.ldblog.jp
@@ -3700,6 +3711,7 @@ haruka1027.blog.jp
 harukakka.com
 haruppi.blog.jp
 harusuki.net
+harvest2ch.blog.fc2.com
 hashgurus.com
 hashigenews.blog.fc2.com
 hashtags24.com
@@ -3853,6 +3865,7 @@ himazinsnow.blog.shinobi.jp
 himazinsnow2ch.blog.shinobi.jp
 hime-book.net
 himegalnews.net
+himegami.zlog.click
 himeketsu.jp
 himicoch.blog.fc2.com
 himo2.jp
@@ -4507,6 +4520,7 @@ jyoukyou.livedoor.biz
 jyousoku.blog118.fc2.com
 jyurinandesu.blog.jp
 k-ani.com
+k-blogantenna.net
 k-ga2ch.com
 k-institute.jp
 k.t98.info
@@ -4543,6 +4557,7 @@ kagakunojikan.info
 kagekidan.net
 kahouha2jigen.blog.fc2.com
 kai-you.net
+kaidan.livedoor.biz
 kaigai-anime.com
 kaigai-antena.com
 kaigai-antenna.com
@@ -6455,6 +6470,7 @@ monstlab.com
 monstmatome.blog.fc2.com
 monstz.com
 monsuto-matome.com
+monsuto.diary.to
 monsuto.xyz
 monsutosougou.seesaa.net
 montena.info
@@ -7124,6 +7140,7 @@ newsde444.blog.fc2.com
 newsdokugiri.seesaa.net
 newser.cc
 newsevery1098rss.ldblog.jp
+newsf.blog.jp
 newsfinder.blog.jp
 newsg.qlip.jp
 newsgachi.com
@@ -9153,6 +9170,7 @@ sportsdqn.blog28.fc2.com
 sportshouse.seesaa.net
 sportsnavi.biz
 sportsnavi.dtiblog.com
+sportsokuhou.blog.fc2.com
 sportssandals.blog.jp
 sportstop.ka3soku.com
 sposoku.doorblog.jp
@@ -9271,6 +9289,8 @@ sukidrum.cocolog-nifty.com
 sukikatte.doorblog.jp
 sukinyan.net
 sukiseiyuu.blog.fc2.com
+sukiyan.dip.jp
+sukoshi-migiyori.blog.jp
 sukoyakasoku.com
 sukusoku.com
 sumabura.fantena.net
@@ -9338,6 +9358,7 @@ svgfire.com
 svven.jp
 swalk.tv
 swallows.jyoraku.jp
+switch2hydrogen.com
 sword-art-online.biz
 sx302.seesaa.net
 sxs3bhck.blog95.fc2.com
@@ -9567,6 +9588,7 @@ the-zombis.sakura.ne.jp
 theatn.net
 thefunnel.jp
 thehanzai.blog.fc2.com
+thepsiu.com
 thespartacusproject.appspot.com
 thetodayblog.seesaa.net
 thewizardofozgame.com
@@ -9702,6 +9724,7 @@ torepan.tv
 toretama-watch.com
 toretwi.com
 tori2ch.blog.fc2.com
+toriizaka46.jp
 torima-antenna.xii.jp
 torima.blog.jp
 torimayo.wpblog.jp
@@ -9724,6 +9747,7 @@ toubakublog.com
 touch-me-not.appspot.com
 touhougensou.doorblog.jp
 touhoumatometai.blog.jp
+touhousoku.doorblog.jp
 touken-2ch.blog.jp
 touken-wiki.blog.jp
 touken.xyz
@@ -10374,6 +10398,7 @@ workingnews.blog117.fc2.com
 workingnewsblog117fc2.blogher.co
 worknavi2ch.blog.jp
 world-action.net
+world-amazing.com
 world-antenna.net
 world-fusigi.net
 world-import.info
