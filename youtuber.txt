@@ -399,3 +399,5 @@ youtube.com##[adblock-ytid="UCzkHSAUZUBP1MV2t8tqntdA"] /*瀬戸弘司ミニ*/
 youtube.com##[adblock-ytid="UCzqoAFObkB3Ptp92Jqg7CWQ"] /*あいも*/
 youtube.com##[adblock-ytid="UCzufaGFZLYnIzI1QXNdk9CA"] /*MasuoGames*/
 youtube.com##[adblock-ytid="UCzyqpBZkocV1dDgMhFJR-bA"] /*Megumi Games*/
+youtube.com##[adblock-ytid="UCcKRCcWI6BnjYH0ojTVeVmw"] /*世の中、理不尽と希望にあふれている!!*/
+youtube.com##[adblock-ytid="UCDIgddk1RLT77ZGY-lwAjwQ"] /*神崎奈々*/
