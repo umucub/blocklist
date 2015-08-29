@@ -136,7 +136,19 @@ Tampermonkey \+ Google Hit Hider by Domain が使えるかもしれません
 ***
 
 # AdBlock 互換 YouTuber フィルタ
-購読用リンク: https://github.com/umucub/blocklist/raw/master/youtuber.txt
+**\*[hikakin remover](https://greasyfork.org/ja/scripts/5341-hikakin-remover)を入れないと動きません  
+購読用リンク: https://github.com/umucub/blocklist/raw/master/youtuber.txt  
+更新終了して VideoBlocker のリストへ変更しました
+
+## ライセンス
+パブリックドメイン
+
+***
+
+# VideoBlocker 用リスト
+[Firefox](https://addons.mozilla.org/ja/firefox/addon/video-blocker/)  
+[Chrome](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk)  
+直リン: https://github.com/umucub/blocklist/raw/master/videoblocker.csv
 
 ## ライセンス
 パブリックドメイン
