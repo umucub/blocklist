@@ -1554,6 +1554,7 @@ bekosoku.doorblog.jp
 benisoku.dip.jp
 benrikosodate.blog.fc2.com
 beramawo.cms.am
+bereturning.appspot.com
 berryz-koho.blog.jp
 berusoku.blog.jp
 berysoku.blog.fc2.com
@@ -1934,6 +1935,7 @@ ch-neru.doorblog.jp
 ch.2chdays.net
 ch.i.cmaas.net
 ch.kitiku.net
+ch2mtm.blog.jp
 ch2sokuhou.publog.jp
 ch2sub.blog.fc2.com
 cha-han-madakane.doorblog.jp
@@ -2169,6 +2171,7 @@ cutecourse.ldblog.jp
 cwcheat.blog.fc2.com
 cx925.bbs.fc2.com
 cyber-life.info
+cyber-rank.jp
 cybernewschannel.seesaa.net
 cycle.hotcom-land.com
 cyousokuvip.com
@@ -2644,6 +2647,7 @@ entry-point.net
 enzyouch.blog.fc2.com
 epamaru3670.blog.fc2.com
 erakokyu.blog.jp
+erc.co.il
 ereeto.jp
 erminn.sakura.ne.jp
 ero-appli.net
@@ -2947,6 +2951,7 @@ freejapan.tv
 freejapanlife.blog.fc2.com
 freeze777.com
 freko.blog.jp
+fresh-news.click
 freshnews-now.blog.so-net.ne.jp
 frgsjn.urllist.info
 frogbeat.publog.jp
@@ -3118,6 +3123,7 @@ game10.doorblog.jp
 game129.blog.fc2.com
 game1291.blog.fc2.com
 game8.jp
+gameant.net
 gameantena.sitepedia.jp
 gameapp-info.com
 gameblog.thelonious.jp.net
@@ -3516,6 +3522,7 @@ gorouchan.seesaa.net
 gosen-dojo.seesaa.net
 goshippusukyanndaru.seesaa.net
 gossip-antenna.net
+gossip-ch.com
 gossip-i.com
 gossip-tokyo.com
 gossip.bestone-inc.com
@@ -5546,6 +5553,7 @@ mandarake.net
 manfla.liblo.jp
 manga-artist.com
 manga-tameshiyomi.blog.jp
+manga.fresh-news.click
 manga.lovesoku.jp
 manga2228.blog.fc2.com
 mangabito.net
@@ -5786,6 +5794,7 @@ matome.thelonious.jp.net
 matome.tlog.jp
 matome.turetyou.com
 matome.usagi-max.info
+matome.uso8.net
 matome.weblog.vc
 matome.wwww.jp
 matome.x0.com
@@ -5808,6 +5817,7 @@ matome2ch2.blogspot.jp
 matome2chfc2.blog.fc2.com
 matome2chgogo.blog.fc2.com
 matome2chmatome2ch.blog.fc2.com
+matome2plus.com
 matome365.com
 matome3rdeyes.blog.fc2.com
 matome55.com
@@ -6532,6 +6542,7 @@ mousou2ji.com
 mousouchyuu.com
 mousouteki.blog53.fc2.com
 movie-matome.net
+movie-soku.info
 movie-wave.com
 movie.newtopics.info
 movieday.blog.fc2.com
@@ -6594,6 +6605,7 @@ mufufuantena.com
 mug-g.tumblr.com
 mugenantena.com
 mugenews.webcrow.jp
+mugichan.wpblog.jp
 muguuuuuu.blog.fc2.com
 mujin.ldblog.jp
 mujin.pw
@@ -8260,6 +8272,7 @@ proxy2.yaraon.net
 proxy5010.appspot.com
 proxy5090.appspot.com
 proxycgi0.appspot.com
+proxypy.org
 prpr-antena.com
 ps3avfunc.blog29.fc2.com
 ps3dominater.com
@@ -8643,6 +8656,7 @@ sakusoku.blog.jp
 salada.tokyo
 saleinformation.seesaa.net
 salepriceblog.blog.fc2.com
+salonmania.co
 salononcedar.com
 saltnorituhiko.blog.fc2.com
 salutaire.blog.fc2.com
@@ -9362,6 +9376,7 @@ surf709.appspot.com
 surfproxy7.appspot.com
 surimura.blog.jp
 surounin777.blog101.fc2.com
+surume.ldblog.jp
 sushi-edogawa.com
 sutagame.blog64.fc2.com
 sutekinakijo.com
@@ -10038,6 +10053,7 @@ usonews.org
 ussan-saku.blogspot.com
 ussan-saku.blogspot.jp
 usual-please.ldblog.jp
+usuka.dip.jp
 ususama.biz
 usuta.g.ribbon.to
 uta-net.com
@@ -11051,6 +11067,7 @@ ziyu.net
 ziziboom.com
 zizisoku.blog.fc2.com
 zlid.net
+zlog.click
 zokani.dip.jp
 zone0012.seesaa.net
 zonuchannel.blog.fc2.com
