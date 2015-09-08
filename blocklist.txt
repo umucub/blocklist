@@ -210,6 +210,7 @@
 2ch.blog-matome.info
 2ch.blogmura.com
 2ch.blogo.jp
+2ch.cc
 2ch.cloudnote.jp
 2ch.co.jp
 2ch.cool-biz.net
@@ -611,6 +612,7 @@
 39400502.blog.fc2.com
 3ch.pw
 3ch.viewerd.com
+3ctf.click
 3dsantena.com
 3gokupaz.info
 3keta.net
@@ -823,6 +825,7 @@ akb.xnoticeboard.com
 akb22384771.blog.fc2.com
 akb2ch.com
 akb48-matome.blog.jp
+akb48-matome.dreamlog.jp
 akb48-music.seesaa.net
 akb48-news.xyz
 akb48-plus.com
@@ -885,6 +888,7 @@ akbg.hatenablog.com
 akbg48.blog.fc2.com
 akbgirls.com
 akbgroup-gugutasu.doorblog.jp
+akblife.xyz
 akbmato.doorblog.jp
 akbmatoblog.blog.fc2.com
 akbmatomeatoz.ldblog.jp
@@ -1369,6 +1373,7 @@ athleticgeek.dtiblog.com
 atmatome.jp
 atna.jp
 atoaziwarui.blog.fc2.com
+atofes.xyz
 atolog69.com
 atonoblog.com
 atoran33.blog69.fc2.com
@@ -1913,6 +1918,7 @@ cat.youtubedouga.biz
 cat2.ch
 catavan.net
 cate-rina.net
+catexpress.blog.jp
 cawaii2ch.com
 cbc.nagoya
 cbdvubgvsv.blog.fc2.com
@@ -1955,6 +1961,7 @@ channeljk.blog.fc2.com
 channeltwow.doorblog.jp
 channelz.blog.fc2.com
 channelz.blog118.fc2.com
+chanto.click
 chantome-2ch.doorblog.jp
 chaos-info.ldblog.jp
 chaos-lefilm.com
@@ -2391,6 +2398,7 @@ dokujyo.net
 dokujyoch.net
 dokujyonyu-su.seesaa.net
 dokuritsujison.net
+dokusoku.liblo.jp
 dokusyojinsan.blog120.fc2.com
 dolgazo.com
 dolism.blog.jp
@@ -2581,6 +2589,7 @@ ejw7n1za.blog.fc2.com
 ekla.in
 ekusan.blog.fc2.com
 ele-soku.zsw.jp
+electrog.xyz
 elekips.blog.fc2.com
 elemaga.diary.to
 eliiite.com
@@ -2604,6 +2613,7 @@ enntamech.blog.fc2.com
 enoge.org
 enomatome.info
 enrique5581.net
+ensok.com
 enta-tubo.com
 enta.matogeinou.biz
 enta.matonews.net
@@ -3550,6 +3560,7 @@ gp.tlog.jp
 grablu-play.com
 grafansokuhou.blog.fc2.com
 gramis2ch.blog.fc2.com
+granblue.xyz
 granbluefantasy.info
 grand-wazoo.com
 grandcrossdan.sa-suke.com
@@ -3570,6 +3581,7 @@ grolian.org
 grotesque1234.com
 grotty-monday.com
 groupz.jp
+growth0004.wpblog.jp
 gsoku.com
 gsyoki.blog.fc2.com
 gtavsoku.com
@@ -3809,6 +3821,7 @@ hesomarujikenbo.blog.fc2.com
 hetima-sokuhou.ldblog.jp
 hexcenturion.phpapps.jp
 heyasetu.jp
+hibino.click
 hidamari.hatenablog.jp
 hidarimakinews.blog.fc2.com
 hidebookmark.com
@@ -4708,6 +4721,7 @@ kanzenoretoku.blogspot.com
 kaola.jp
 kaori-news.jp
 kaosunews.blog.fc2.com
+kapibara-ch.click
 kapkhunkap.com
 kappa3133.blog.fc2.com
 kappuru.dreamlog.jp
@@ -5471,6 +5485,7 @@ maasok.seesaa.net
 mac.wistaria-net.com
 macaro-ni.jp
 machikon.doorblog.jp
+machisoku.xyz
 machosoku.blog.jp
 mackknife.info
 madamch.amits.net
@@ -5587,6 +5602,7 @@ mannyuuki.seesaa.net
 manshitsukanri.com
 mantena.link
 mantena.syoh.jp
+mao-soku.xyz
 maoyuss.blog.fc2.com
 mappingsord.appspot.com
 marikoshape.blog.fc2.com
@@ -5969,6 +5985,7 @@ matomesu.com
 matomesusi.blog.fc2.com
 matometa.dreamlog.jp
 matometa.link
+matometa.main.jp
 matometa.org
 matometai.com
 matometal.blogspot.jp
@@ -5988,6 +6005,7 @@ matomete.jp.net
 matomete140.blog.fc2.com
 matometechan.blog.fc2.com
 matometeikou.cocolog-nifty.com
+matometekun.click
 matometematome.seesaa.net
 matometememorial.blog.fc2.com
 matometemita.info
@@ -6083,6 +6101,7 @@ mczmatome.com
 mcznews.dreamlog.jp
 me2ch.doorblog.jp
 meanwhile.doorblog.jp
+mecha-news.blog.jp
 mechsoku.blog59.fc2.com
 medaka489.blog.jp
 medasoku.blog.jp
@@ -6098,6 +6117,7 @@ medicalhomejp.com
 medinetanews.blog.fc2.com
 mega-up.jp
 megahelloproject.livedoor.biz
+megidora999.blog.fc2.com
 meigench.com
 mekepo.com
 melma.com
@@ -6119,6 +6139,7 @@ mensoreyanbaruru.seesaa.net
 mentalnews.wpblog.jp
 mentionresearch.com
 mera.red
+meramera.click
 mercatornews.ldblog.jp
 merciparty.com
 mericely.cocolog-nifty.com
@@ -6219,6 +6240,7 @@ minecraftantenna.info
 minfra.jp
 minisoku.blog97.fc2.com
 minkara.carview.co.jp
+minkch.com
 minkchan.com
 minkurumato.net
 minmato.jp
@@ -6905,6 +6927,7 @@ neta.skr.jp
 neta.urayama.biz
 neta.vipmen.biz
 neta1000.com
+neta20xx.seesaa.net
 netaatoz.blog21.fc2.com
 netaatoz.jp
 netabare-manga.net
@@ -6932,6 +6955,7 @@ netanews.newssoku.info
 netanews.wpblog.jp
 netanohouko777.seesaa.net
 netanotane.soku4.com
+netanow.blog.fc2.com
 netapedia.jp
 netapero.kenkashinai.com
 netaran.blog.jp
@@ -6998,6 +7022,7 @@ newfolder-2.doorblog.jp
 newgamesoku.com
 newhuman.seesaa.net
 newlab.sakura.ne.jp
+newlog.xyz
 newmatome.dip.jp
 newmofu.doorblog.jp
 newnewnews777.seesaa.net
@@ -7222,6 +7247,7 @@ newsoku318blog134fc2.blogher.co
 newsokuelite.net
 newsokuh.seesaa.net
 newsokuho.mobi
+newsokuhoumatome.blog.fc2.com
 newsokumatomech.blog.fc2.com
 newsokuviplusch.blog.fc2.com
 newsooon.com
@@ -7852,6 +7878,7 @@ oreyou.net
 orgasmnews.net
 orisoku.doorblog.jp
 orixchannel.main.jp
+orsinoimages.com
 oryouri.2chblog.jp
 orzorzorz.doorblog.jp
 osakaitai.doorblog.jp
@@ -8006,6 +8033,7 @@ pad.appbako.com
 pad.atenasoku.com
 padant.net
 padfan.blog.jp
+padikaru.com
 page2rss.com
 page404.blog8.fc2.com
 painashima.com
@@ -8262,6 +8290,7 @@ pretown.jp
 priconne.com
 prn.fc2.work
 promo.in.net
+promotingclinicaltrials.com
 propecia2ch.doorblog.jp
 proto-1.net
 prototypesokuhou.blog.fc2.com
@@ -8755,6 +8784,7 @@ seiji.antenna-antenna.com
 seijigaikou.com
 seijikatoday.blog.fc2.com
 seijikeizai.sblo.jp
+seijikeizai7.seesaa.net
 seikatsuantenna.net
 seikatsumatome2ch.blog.fc2.com
 seikatsunohibi2.seesaa.net
@@ -9124,6 +9154,7 @@ sokusokugames.blog.fc2.com
 sokuspo.blog.fc2.com
 solardishengines.com
 solaroscillations.blog.fc2.com
+solemi.jp
 somanyjobs.doorblog.jp
 someoneone.blog116.fc2.com
 sonic-speed2.seesaa.net
@@ -9236,6 +9267,7 @@ ss.namusyaka.info
 ss.ssmatomech.com
 ss1.minibird.jp
 ss2ch.r401.net
+ss2news.blog.fc2.com
 ssantenna.com
 ssbiyori.blog.fc2.com
 ssblog614.blog.fc2.com
@@ -9335,6 +9367,7 @@ sumaota.blogspot.com
 sumaota.blogspot.jp
 sumisoku.com
 summ2ch.blog.fc2.com
+summary-q-and-a.com
 summary.fc2.com
 summary.ff3.info
 summary.red
@@ -9763,6 +9796,7 @@ torima-antenna.xii.jp
 torima.blog.jp
 torimayo.wpblog.jp
 torinikui.blog112.fc2.com
+torisan.sub.jp
 toriyamazine.blog100.fc2.com
 tornade-f.com
 toroahe.blog.jp
@@ -9957,6 +9991,7 @@ uch.viewerd.com
 uchidaaa.blog.fc2.com
 uchitome.com
 uchu2ch.blog.fc2.com
+uchu2ch.blog.jp
 udasoku.blog.jp
 ue-bu.com
 ue47.com
@@ -10083,6 +10118,7 @@ v2load.com
 vaimas.blog.fc2.com
 vain3.com
 valdamjong.blog116.fc2.com
+valswellnessjuiceplus.com
 vamola2ch.blog.fc2.com
 vancouverfoundationawards.com
 vanillasokuhou.seesaa.net
@@ -10777,6 +10813,7 @@ xx2ch.blog.fc2.com
 xxblog.net
 xxbp.net
 xxeronetxx.info
+xxl.69gb.top
 xxl.fc2.work
 xxl.fc3.xyz
 xxlovebattlexx.blog.fc2.com
@@ -10796,6 +10833,7 @@ y31gloria28000.blog.fc2.com
 ya.doorblog.jp
 ya2ch.net
 yabainews.com
+yabakunesu.click
 yabasu-sokuhou.blue
 yabee.nyanta.jp
 yabesoku.blog.jp
@@ -10807,6 +10845,7 @@ yahoo-at-2ch.seesaa.net
 yahooauctionwatch.livedoor.biz
 yahooco.net
 yahwehyhvh.blog.fc2.com
+yajioyaji.xyz
 yajirusiss.blog.fc2.com
 yajiuma-antena.com
 yajyukouhai.blog.fc2.com
