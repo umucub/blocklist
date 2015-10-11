@@ -506,6 +506,7 @@
 2chslo.blog.fc2.com
 2chsoccerballgame.seesaa.net
 2chsoku.com
+2chsokuhonews.seesaa.net
 2chsokuhou.publog.jp
 2chsokuhoudayo.seesaa.net
 2chspa.com
@@ -647,6 +648,7 @@
 4ch.red
 4ch.viewerd.com
 4chansokuhou.blog.fc2.com
+4travel.blog.jp
 4vipstars.blog.fc2.com
 50064686.at.webry.info
 500v.net
@@ -1983,6 +1985,7 @@ chaos-lefilm.com
 chaos2ch.com
 charismasure.seesaa.net
 charlienews.blog.fc2.com
+charming-hanako.blog.so-net.ne.jp
 chat.atura.jp
 chatcontentfree.blog.fc2.com
 chchchannel.com
@@ -2016,6 +2019,7 @@ chiku-antena.com
 chimata.ldblog.jp
 china-antena.blogspot.com
 china-antena.blogspot.jp
+china.inko.link
 chinanews.sblo.jp
 chinareaction.com
 chinasokuhou.blog.fc2.com
@@ -2034,6 +2038,7 @@ chiryocon.com
 chitekinews.blog.jp
 chitekizaisan.blog28.fc2.com
 chiwo.net
+chnuru.com
 cho-gos.com
 choberigu.doorblog.jp
 chocobitfc2.blog.fc2.com
@@ -2093,6 +2098,7 @@ cocoa-antenna.com
 cococaca.seesaa.net
 cocomvip.com
 coconuts-biyou.livedoor.biz
+cocoon-soku.com
 cocoronosokuho.doorblog.jp
 cocoronote.com
 cocox.co
@@ -3004,6 +3010,7 @@ fujiroomblog.blog.fc2.com
 fujisan.matomeboy.blue
 fujitaniaoi.seesaa.net
 fujo2.com
+fukasoku.jp
 fukkin.blog.jp
 fukmaxnews.blog.fc2.com
 fukuoka-galu.com
@@ -3431,9 +3438,11 @@ ggfsokuhou.info
 gggr.net
 gggworld.blog.fc2.com
 gglog.blog.jp
+gglog.net
 ggrksblog.ldblog.jp
 ggry.net
 ggsoku.com
+ghardw.com
 ghillie.blog9.fc2.com
 ghindustry.mobi
 ghinfohkt.blog.fc2.com
@@ -3598,6 +3607,7 @@ greemas.doorblog.jp
 green.ribbon.to
 green5771.blog13.fc2.com
 greensoku.com
+grlnws.com
 gro-ero-monster.com
 groantena.sakura.ne.jp
 grogro.click
@@ -3748,6 +3758,7 @@ happy-man.jp
 happyeveryday.biz
 happylife1987.blog.fc2.com
 happymail-sns.info
+happymay.xyz
 harahana.blog110.fc2.com
 harahara.seesaa.net
 haraitai.com
@@ -4273,6 +4284,7 @@ info-catcher.jp
 info-iphone.seesaa.net
 infoarashi.blog.fc2.com
 infofootball.blog.fc2.com
+infohills.seesaa.net
 infokun.com
 informer.com
 ingress.antna.pw
@@ -4358,6 +4370,7 @@ itaishinja.com
 itaisoudan.seesaa.net
 itakawaii.blog.fc2.com
 itano-tomomi-at-2ch.seesaa.net
+itarian.daiwa-hotcom.com
 itasoku.com
 item.rakuten.co.jp
 itibusizyuu.jp
@@ -4571,6 +4584,7 @@ jxd12569and.cocolog-nifty.com
 jyajyani.doorblog.jp
 jyani.xyz
 jyanichannel.blog.jp
+jyanichannel.doorblog.jp
 jyanichannel.xyz
 jyojyakunews.doorblog.jp
 jyouhou-news.xsrv.jp
@@ -4740,6 +4754,7 @@ kanmusu.com
 kannkoku-football.com
 kannkoku-keizai.com
 kannzakiasi.blog.fc2.com
+kanpani.ldblog.jp
 kansatsuch.blog.fc2.com
 kantai-collection.com
 kantama.net
@@ -5705,6 +5720,7 @@ matogame.link
 matolabel.net
 matolin.net
 matolo.dip.jp
+matologs.com
 matomade.2chblog.jp
 matomagi.com
 matomagi.doorblog.jp
@@ -5753,6 +5769,7 @@ matome-game.appspot.com
 matome-geinou.com
 matome-geno.ldblog.jp
 matome-head.com
+matome-king.com
 matome-lab.com
 matome-life.com
 matome-life.info
@@ -5902,6 +5919,7 @@ matomecharera.doorblog.jp
 matomechecker.com
 matomechi.com
 matomechnews.blog.fc2.com
+matomecup.com
 matomedeon.com
 matomedrill.blog.fc2.com
 matomeee.fam.cx
@@ -6024,6 +6042,7 @@ matomess.blogspot.jp
 matomestream.com
 matomesu.com
 matomesusi.blog.fc2.com
+matometa-wars.xyz
 matometa.dreamlog.jp
 matometa.link
 matometa.main.jp
@@ -7194,6 +7213,7 @@ news2ch.aniota.net
 news2ch.net
 news2ch.web.fc2.com
 news2chinfo.blog.fc2.com
+news2matome.com
 news2nn.blog.fc2.com
 news2plus.blog123.fc2.com
 news30over.com
@@ -7566,6 +7586,7 @@ nozokimi-2ch-paku.seesaa.net
 nsoku.toypark.in
 nstimes.blogher.co
 nstimes.com
+nstimes.com.getboys.com
 nsvip.blog53.fc2.com
 ntk180oq.cocolog-nifty.com
 ntr-ch.com
@@ -7975,6 +7996,7 @@ osyo9ji.com
 osyokuji.hatenablog.com
 ota-new.blog.jp
 ota-suke.jp
+otafuku01.blog.fc2.com
 otajapan.com
 otakara-idol.com
 otakaramap.blog54.fc2.com
@@ -8521,6 +8543,7 @@ refind2ch.org
 reifalove.cocolog-nifty.com
 reiichikun.blog.fc2.com
 reinogazo.net
+reinotsubo.click
 reizasokuhoou.jugem.jp
 rejapan.blog.jp
 rekisa1.blog.fc2.com
@@ -8979,6 +9002,7 @@ shironeko.appbako.com
 shironeko.kouryakublog.biz
 shironekoblog.com
 shironekochannel.com
+shironekogachapon.livedoor.biz
 shironekopj.blog.jp
 shironekoproject-news.com
 shironekoproject.net
@@ -9188,6 +9212,7 @@ sociasoku.com
 softdrinkers.net
 softonic.com
 sogap.cielquis.net
+soku-bazu.com
 sokuch.blog.jp
 sokufoo.com
 sokuho-linux.seesaa.net
@@ -9559,6 +9584,7 @@ tairaku.seesaa.net
 taiwannohannou.com
 taizaisokuhou.blog.fc2.com
 tajigen.com
+tajikasumi.anime-japan.net
 takakuraken.jp
 takara.ms
 takasankodukaikasegi.blog.fc2.com
@@ -10076,6 +10102,7 @@ ujich.blog.fc2.com
 ukiukitoto.doorblog.jp
 ultimatematome.blogspot.com
 ultimatematome.blogspot.jp
+ultraseoul.blog.jp
 uma-new.com
 uma.an-te.net
 umamistreet.blog.fc2.com
@@ -10388,6 +10415,7 @@ wannyu.com
 wansoku2012.blog.fc2.com
 wara-news.blog.jp
 wara-soku.club
+wara10.com
 wara2.doorblog.jp
 wara2ch.com
 waraan.com
@@ -10907,6 +10935,7 @@ ya2ch.net
 yabainews.com
 yabakunesu.click
 yabasu-sokuhou.blue
+yabatan.blog.jp
 yabee.nyanta.jp
 yabesoku.blog.jp
 yagoogle.blog.jp
